@@ -1,0 +1,85 @@
+POST_CODE,MUNICIPALITY,CITY_SHIRE,SUBURB_GROUP,NAME,Suburb,Latitude,Longitude,SUBURB_NAMES
+3011,Western municipalities and their suburbs,City of Maribyrnong,Mid,Footscray Police Station,Footscray,-37.80392655,144.90119372359192,"Footscray, Seddon"
+3016,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Williamstown Police Station,Williamstown,-37.86331455,144.90638117187547,"Williamstown, Williamstown North"
+3018,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Altona Police Station,Altona,-37.86322235,144.8100769568906,"Altona, Seaholme"
+3020,Western municipalities and their suburbs,City of Brimbank,Mid,Sunshine Police Station,Sunshine,-37.77791,144.83123120112566,"Albion, Sunshine, Sunshine North, Sunshine West"
+3023,Western municipalities and their suburbs,City of Brimbank,Mid,Caroline Springs Police Station,Caroline Springs,-37.73062925,144.74120456824517,"Cairnlea, Deer Park, Burnside, Burnside Heights, Caroline Springs, Cobblebank, Deanside"
+3025,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Altona North Police Station,Altona North,-37.8359973,144.84485602422188,"Altona North, Altona East"
+3028,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Laverton Police Station,Laverton,-37.86323135,144.77133300474327,"Altona Meadows, Laverton South, Laverton, Seabrook, Laverton"
+3029,Western municipalities and their suburbs,City of Melton,Outer,Wyndham North Police Station,Tarneit,-37.84763890000001,144.68700891764195,"Truganina, Weir Views, Hoppers Crossing, Tarneit, Truganina"
+3030,Western municipalities and their suburbs,City of Brimbank,Mid,Werribee Police Station,Werribee,-37.893859250000006,144.68158580173005,"Derrimut, Point Cook, Sanctuary Lakes, Werribee, Werribee South"
+3031,Inner City municipalities and their suburbs,City of Melbourne,Inner,Flemington Police Station,Flemington,-37.7853611,144.93219393488374,"Flemington, Kensington"
+3034,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Avondale Heights Police Station,Avondale Heights,-37.7557174,144.8595252603019,Avondale Heights
+3038,Western municipalities and their suburbs,City of Brimbank,Mid,Keilor Downs,Keilor Downs,-37.723974350000006,144.80771094500017,"Keilor Downs, Keilor Lodge, Taylors Lakes"
+3039,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Moonee Ponds Police Station,Moonee Ponds,-37.764619499999995,144.92431942316557,Moonee Ponds
+3041,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Police Airwing,Essendon Fields,-37.7229,144.893,"Essendon North, Strathmore, Strathmore Heights"
+3046,Northern municipalities and their suburbs,City of Moreland,Mid,Fawkner Police Station,Fawkner,-37.7182715,144.9619919913916,"Glenroy, Hadfield, Oak Park"
+3047,Northern municipalities and their suburbs,City of Hume,Outer,Broadmeadows Police Station,Broadmeadows,-37.6832159,144.9165236,"Broadmeadows, Dallas, Jacana"
+3051,Inner City municipalities and their suburbs,City of Melbourne,Inner,Melbourne North Police Station,North Melbourne,-37.800393549999995,144.95476050765063,North Melbourne
+3056,Northern municipalities and their suburbs,City of Moreland,Mid,Brunswick Police Station,Brunswick,-37.762841300000005,144.96318526828355,Brunswick
+3064,Northern municipalities and their suburbs,City of Hume,Outer,Craigieburn Police Station,Craigieburn,-37.598677,144.9331765625174,"Craigieburn, Roxburgh Park, Kalkallo, Mickleham, Donnybrook"
+3065,Inner City municipalities and their suburbs,City of Yarra,Mid,Fitzroy Police Station,Fitzroy,-37.802217299999995,144.97917842698604,Fitzroy
+3066,Inner City municipalities and their suburbs,City of Yarra,Mid,Victoria Police Collingwood Complex,Collingwood,-37.803290950000004,144.98620833656767,Collingwood
+3067,Inner City municipalities and their suburbs,City of Yarra,Mid,Collingwood Police Station,Abbotsford,-37.804093,144.99336,Abbotsford
+3070,Northern municipalities and their suburbs,City of Darebin,Mid,Northcote Police Station,Northcote,-37.76623395,145.00212049400778,"Northcote, Westgarth"
+3072,Northern municipalities and their suburbs,City of Darebin,Mid,Preston Police Station,Preston,-37.7392244,145.00605805636073,Preston
+3073,Northern municipalities and their suburbs,City of Darebin,Mid,Reservoir Police Station,Reservoir,-37.7164805,145.0053548,Reservoir
+3076,Northern municipalities and their suburbs,City of Whittlesea,Outer,Epping Police Station,Epping,-37.64684325,145.02537723864015,Epping
+3082,Northern municipalities and their suburbs,City of Whittlesea,Outer,Mill Park Police Station,Mill Park,-37.65760975,145.07538801014573,Mill Park
+3084,Northern municipalities and their suburbs,City of Banyule,Mid,Heidelberg Police Station,Heidelberg,-37.7575353,145.0706781,"Eaglemont, Heidelberg, Rosanna, Viewbank"
+3088,Northern municipalities and their suburbs,City of Banyule,Mid,Greensborough,Greensborough,-37.7041169,145.0964111,"Briar Hill, Greensborough, St Helena, Greensborough"
+3095,Northern municipalities and their suburbs,City of Banyule,Mid,Eltham Police Station,Eltham,-37.7133192,145.15079824408252,"Eltham, Eltham North, Eltham, Eltham North, Research"
+3099,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,"Hurstbridge VIC 3099, Australia",Hurstbridge,-37.640072200000006,145.1929432131433,Hurstbridge
+3101,Eastern municipalities and their suburbs,City of Boroondara,Mid,Boroondara Police Station,Kew,-37.7997339,145.0518391,Kew
+3102,Eastern municipalities and their suburbs,City of Boroondara,Mid,Boroondara Police Station,Kew,-37.7998638,145.05213208730436,"Kew East, Kew North"
+3109,Eastern municipalities and their suburbs,City of Manningham,Mid,Doncaster Police Station,Doncaster East,-37.7882544,145.1578704,Doncaster East
+3113,Eastern municipalities and their suburbs,City of Manningham,Mid,Warrandyte Police Station,Warrandyte,-37.74060265,145.21275357145979,Warrandyte
+3121,Inner City municipalities and their suburbs,City of Yarra,Mid,Richmond Police Station,Richmond,-37.81750955,144.9996982,"Burnley, Cremorne, Richmond"
+3124,Eastern municipalities and their suburbs,City of Boroondara,Mid,Camberwell Police Station,Camberwell,-37.83314795,145.05931276796417,Camberwell
+3125,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Burwood Police Station,Burwood,-37.8509547,145.0981719,"Burwood, Burwood"
+3128,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Box Hill,Box Hill,-37.8178651,145.1272932078236,"Box Hill, Box Hill South"
+3131,Eastern municipalities and their suburbs,City of Manningham,Mid,Nunawading Police Complex,Nunawading,-37.8173199,145.18326494125617,"Nunawading, Forest Hill, Nunawading"
+3132,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Whitehorse TMU,Nunawading,-37.8183,145.186,Mitcham
+3134,Eastern municipalities and their suburbs,City of Manningham,Mid,Ringwood Police Complex,Ringwood,-37.81308505,145.22695863866056,"Ringwood North, Ringwood, Ringwood North, Warranwood"
+3136,Eastern municipalities and their suburbs,City of Maroondah,Mid,Croydon Police Station,Croydon,-37.799029,145.2785836,"Croydon, Croydon Hills, Croydon North, Croydon South"
+3138,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Mooroolbark Police Station,Mooroolbark,-37.7894693,145.31082816013515,Mooroolbark
+3140,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Lilydale Police Station,Lilydale,-37.7553386,145.3424556394436,Lilydale
+3141,Inner City municipalities and their suburbs,City of Melbourne,Inner,Prahran,South Yarra,-37.8478,145.0,"South Yarra, South Yarra"
+3144,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Malvern Police Station,Malvern,-37.85590155,145.02975816289015,Malvern
+3147,Eastern municipalities and their suburbs,City of Boroondara,Mid,Ashburton,Ashburton,-37.8628817,145.0797951,"Ashburton, Ashwood"
+3149,Southeastern municipalities and their suburbs,City of Monash,Mid,Mount Waverley Police Station,Mount Waverley,-37.8804749,145.1284828,Mount Waverley
+3150,Southeastern municipalities and their suburbs,City of Monash,Mid,Glen Waverley Police Station,Glen Waverley,-37.9032904,145.16419695919757,"Glen Waverley, Syndal, Wheelers Hill"
+3151,Eastern municipalities and their suburbs,City of Whitehorse,Mid,"Vermont South VIC 3151, Australia",Vermont South,-37.845766600000005,145.17161264209756,Burwood East
+3152,Eastern municipalities and their suburbs,City of Knox,Mid,Knox Police Station,Wantirna South,-37.8699027,145.236715,"Wantirna, Wantirna South, Studfield"
+3155,Eastern municipalities and their suburbs,City of Knox,Mid,Boronia Police Station,Boronia,-37.859980300000004,145.28525303073144,Boronia
+3160,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Belgrave Police Station,Belgrave,-37.9077918,145.35471443394584,"Belgrave, Belgrave Heights, Belgrave South, Tecoma"
+3162,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Caulfield Police Station,Caulfield,-37.8811558,145.0234719,"Caulfield, Caulfield South"
+3171,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Springvale Police Station,Springvale,-37.9551663,145.1513886,Springvale
+3175,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Dandenong Police Station,Dandenong,-37.9901765,145.2171922,"Dandenong, Dandenong North"
+3177,Southeastern municipalities and their suburbs,City of Casey,Outer,"Dandenong VIC 3177, Australia",Dandenong,-37.99029055,145.2172189774671,"Doveton, Eumemmerring"
+3178,Eastern municipalities and their suburbs,City of Knox,Mid,Rowville Police Station,Rowville,-37.9189882,145.23873432171658,Rowville
+3182,Inner City municipalities and their suburbs,City of Port Phillip,Inner,St Kilda Police Station,St Kilda,-37.8678683,144.9906544,"St Kilda, St Kilda West"
+3189,Southeastern municipalities and their suburbs,City of Bayside,Mid,Moorabbin Police Complex,Moorabbin,-37.9370387,145.0381733,"Moorabbin, Moorabbin"
+3191,Southeastern municipalities and their suburbs,City of Bayside,Mid,Bayside Police Station,Sandringham,-37.9483186,145.00389039157525,Sandringham
+3192,Southeastern municipalities and their suburbs,City of Bayside,Mid,Cheltenham Police Station,Cheltenham,-37.9648454,145.0566785,"Cheltenham, Cheltenham, Cheltenham East, Cheltenham North"
+3195,Southeastern municipalities and their suburbs,City of Kingston,Mid,Mordialloc Police Station,Mordialloc,-38.0037551,145.08631845218022,"Aspendale, Aspendale Gardens, Mordialloc, Parkdale, Waterways"
+3196,Southeastern municipalities and their suburbs,City of Kingston,Mid,Chelsea Police Station,Chelsea,-38.05123775,145.1163609731704,"Bonbeach, Chelsea, Chelsea Heights, Edithvale"
+3199,Southeastern municipalities and their suburbs,City of Frankston,Outer,Frankston Police Station,Frankston,-38.13852215,145.1249137329261,"Frankston, Frankston South"
+3201,Southeastern municipalities and their suburbs,City of Frankston,Outer,Carrum Downs Police Station,Carrum Downs,-38.1149591,145.173401,Carrum Downs
+3205,Inner City municipalities and their suburbs,City of Port Phillip,Inner,South Melbourne Police Station,South Melbourne,-37.83491735,144.95963135415468,South Melbourne
+3337,Western municipalities and their suburbs,City of Melton,Outer,Melton Police Station,,-37.685772,144.57766471280098,"Kurunjang, Melton, Melton West"
+3429,Northern municipalities and their suburbs,City of Hume,Outer,Sunbury Police Station,,-37.5795942,144.7357618,Sunbury
+3754,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,Mernda Police Station,Mernda,-37.6007826,145.09244607838792,"Doreen, Doreen, Mernda"
+3757,Northern municipalities and their suburbs,City of Whittlesea,Outer,Whittlesea Police Station,,-37.5102256,145.1186201,Whittlesea
+3793,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Monbulk Police Station,Monbulk,-37.8752212,145.4076111,Monbulk
+3796,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Mount Evelyn Police Station,Mount Evelyn,-37.787155150000004,145.38055368967423,Mount Evelyn
+3802,Southeastern municipalities and their suburbs,City of Casey,Outer,Endeavour Hills Police Station,Endeavour Hills,-37.9758196,145.2616274,Endeavour Hills
+3805,Southeastern municipalities and their suburbs,City of Casey,Outer,Narre Warren Police Station,Narre Warren,-38.0257623,145.3111174,"Narre Warren, Narre Warren South"
+3810,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,Pakenham Police Station,Pakenham,-38.0619746,145.45250784682145,Pakenham
+3815,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,Bunyip,,-38.0975,145.718,Bunyip
+3912,Southeastern municipalities and their suburbs,City of Casey,Outer,"Somerville VIC 3912, Australia",Somerville,-38.22121685,145.15534728066663,"Pearcedale, Somerville, Pearcedale"
+3915,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Hastings Police Station,,-38.3079509,145.18464643694028,"Hastings, Hastings West"
+3931,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Mornington Police Station,Mornington,-38.21636745,145.03689511877738,Mornington
+3936,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Dromana Police Station,Dromana,-38.33474645,144.96106795,"Dromana, Safety Beach"
+3939,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Rosebud Police Station,Rosebud,-38.3698081,144.88991529502601,"Rosebud, Rosebud South, Cape Schanck, Fingal"
+3977,Southeastern municipalities and their suburbs,City of Casey,Outer,Cranbourne,Cranbourne,-38.1134141,145.2833318,"Botanic Ridge, Cranbourne, Cranbourne East, Cranbourne North, Cranbourne West, Cranbourne South, Junction Village, Fiveways, Sandhurst, Skye"

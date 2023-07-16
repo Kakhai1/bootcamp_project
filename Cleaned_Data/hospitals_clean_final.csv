@@ -1,0 +1,70 @@
+POST_CODE,MUNICIPALITY,CITY_SHIRE,SUBURB_GROUP,NAME,Suburb,Latitude,Longitude,SUBURB_NAMES
+3051,Inner City municipalities and their suburbs,City of Melbourne,Inner,Royal Children's Hospital,North Melbourne,-37.79347095,144.9499071427389,North Melbourne
+3052,Inner City municipalities and their suburbs,City of Melbourne,Inner,Royal Melbourne Hospital - Royal Park Campus,Parkville,-37.77798185,144.94785742297802,Parkville
+3183,Inner City municipalities and their suburbs,City of Port Phillip,Inner,Masada Private Hospital,St Kilda East,-37.869627,145.00329635184505,"Balaclava, St Kilda East, St Kilda East"
+3185,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Cabrini Rehabilitation - Glen Huntly,Elsternwick,-37.8861135,145.00920294999997,"Ripponlea, Gardenvale, Elsternwick, Gardenvale"
+3078,Inner City municipalities and their suburbs,City of Yarra,Mid,Thomas Embling Hospital,Fairfield,-37.7890152,145.01211537438766,"Alphington, Fairfield, Alphington, Fairfield"
+3121,Inner City municipalities and their suburbs,City of Yarra,Mid,The Melbourne Clinic,Richmond,-37.8148469,144.99894545,"Burnley, Cremorne, Richmond"
+3065,Inner City municipalities and their suburbs,City of Yarra,Mid,St Vincent's Hospital,Fitzroy,-37.8070939,144.97468554842237,Fitzroy
+3083,Northern municipalities and their suburbs,City of Banyule,Mid,La Trobe Private Hospital,Bundoora,-37.71596445,145.04476953482845,"Bundoora, Bundoora, Kingsbury, Bundoora"
+3084,Northern municipalities and their suburbs,City of Banyule,Mid,Austin Hospital,Heidelberg,-37.75656125,145.05865657809136,"Eaglemont, Heidelberg, Rosanna, Viewbank"
+3079,Northern municipalities and their suburbs,City of Banyule,Mid,Heidelberg Repatriation Hospital,Ivanhoe,-37.7550049,145.04766089938488,"Ivanhoe, Ivanhoe East"
+3073,Northern municipalities and their suburbs,City of Darebin,Mid,Reservoir Private Hospital,Reservoir,-37.7174238,144.99733361464644,Reservoir
+3047,Northern municipalities and their suburbs,City of Hume,Outer,Broadmeadows Hospital,Jacana,-37.6843343,144.9131458,"Broadmeadows, Dallas, Jacana"
+3064,Northern municipalities and their suburbs,City of Hume,Outer,Craigieburn Health Service,Craigieburn,-37.5956969,144.9196467444426,"Craigieburn, Roxburgh Park, Kalkallo, Mickleham, Donnybrook"
+3042,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Essendon Private Hospital,Niddrie,-37.748565600000006,144.88539914702392,"Airport West, Niddrie, Keilor Park"
+3056,Northern municipalities and their suburbs,City of Moreland,Mid,,Brunswick,-37.7663129,144.9658061,Brunswick
+3058,Northern municipalities and their suburbs,City of Moreland,Mid,John Fawkner Private Hospital,Coburg,-37.75427195,144.95884419905076,"Coburg, Coburg East, Coburg North"
+3044,Northern municipalities and their suburbs,City of Moreland,Mid,Dorset Private Hospital,Pascoe Vale,-37.72324985,144.94771227149477,"Pascoe Vale, Pascoe Vale South, Coonans Hill"
+3076,Northern municipalities and their suburbs,City of Whittlesea,Outer,The Northern Hospital,Epping,-37.653398550000006,145.0145054886799,Epping
+3146,Eastern municipalities and their suburbs,City of Boroondara,Mid,Malvern Private Hospital,Malvern East,-37.866943199999994,145.06072484807692,"Glen Iris, Glen Iris"
+3122,Eastern municipalities and their suburbs,City of Boroondara,Mid,Epworth Hawthorn,Hawthorn,-37.821853149999995,145.02259248235492,Hawthorn
+3101,Eastern municipalities and their suburbs,City of Boroondara,Mid,St George's Health Service,Kew,-37.8084292,145.05273237846146,Kew
+3127,Eastern municipalities and their suburbs,City of Boroondara,Mid,BlueCross Broughtonlea,Surrey Hills,-37.8280678,145.10469044976895,"Mont Albert, Mont Albert North, Surrey Hills, Mont Albert, Surrey Hills"
+3153,Eastern municipalities and their suburbs,City of Knox,Mid,Knox Day Hospital,Bayswater,-37.8440747,145.2491055,"Bayswater, Bayswater North"
+3155,Eastern municipalities and their suburbs,City of Knox,Mid,The Melbourne Eastern Private Hospital,Boronia,-37.8555688,145.2688590540606,Boronia
+3152,Eastern municipalities and their suburbs,City of Knox,Mid,Wantirna Health,Wantirna,-37.84860985,145.22559342047833,"Wantirna, Wantirna South, Studfield"
+3111,Eastern municipalities and their suburbs,City of Manningham,Mid,Donvale Rehabilitation Hospital,Donvale,-37.7897195,145.17153243183543,Donvale
+3131,Eastern municipalities and their suburbs,City of Manningham,Mid,Bellbird Private Hospital,Blackburn South,-37.8331942,145.15585527833332,"Nunawading, Forest Hill, Nunawading"
+3135,Eastern municipalities and their suburbs,City of Maroondah,Mid,Maroondah Hospital,Ringwood East,-37.80710005,145.25441860171537,"Heathmont, Eastwood, Ringwood East"
+3128,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Sexual health Victoria,Box Hill,-37.8173955,145.12103248676485,"Box Hill, Box Hill South"
+3129,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Box Hill Hospital,Box Hill,-37.81361455,145.11840534149448,"Box Hill North, Mont Albert North"
+3125,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Medical Centre,Burwood,-37.847881,145.11407332450847,"Burwood, Burwood"
+3151,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Peter James Centre,Burwood East,-37.8526149,145.1649491,Burwood East
+3132,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Mitcham Private Hospital,Mitcham,-37.81030805,145.1947482180571,Mitcham
+3133,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Vermont Private Hospital,Vermont South,-37.858193150000005,145.19963789435917,"Vermont, Vermont South"
+3140,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Yarra Ranges Health,Lilydale,-37.7565429,145.351376,Lilydale
+3138,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Mooroolbark Residential Aged Care Facility,Mooroolbark,-37.7925441,145.31866052190458,Mooroolbark
+3158,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Angliss Hospital,Upper Ferntree Gully,-37.8989895,145.31440060314418,Upwey
+3777,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Healesville & District Hospital,,-37.64673455,145.52897743399316,"Badger Creek, Healesville, Healesville"
+3186,Southeastern municipalities and their suburbs,City of Bayside,Mid,Brighton Cabrini,Brighton,-37.911664,144.99118248146823,Brighton
+3188,Southeastern municipalities and their suburbs,City of Bayside,Mid,Linacre Private Hospital,Hampton,-37.9426807,145.00334374238523,"Hampton, Hampton East"
+3191,Southeastern municipalities and their suburbs,City of Bayside,Mid,Sandringham & District Memorial Hospital,Sandringham,-37.960830900000005,145.0180093152024,Sandringham
+3189,Southeastern municipalities and their suburbs,City of Bayside,Mid,Holmesglen Private Hospital,Moorabbin,-37.93592045,145.05087770112561,"Moorabbin, Moorabbin"
+3806,Southeastern municipalities and their suburbs,City of Casey,Outer,Casey Hospital,Berwick,-38.04496465,145.34766600133037,Berwick
+3977,Southeastern municipalities and their suburbs,City of Casey,Outer,Cranbourne Integrated Care Centre,Cranbourne,-38.113480749999994,145.28106858848082,"Botanic Ridge, Cranbourne, Cranbourne East, Cranbourne North, Cranbourne West, Cranbourne South, Junction Village, Fiveways, Sandhurst, Skye"
+3802,Southeastern municipalities and their suburbs,City of Casey,Outer,Dandenong Hospital,Dandenong,-37.97611205,145.21782415905625,Endeavour Hills
+3174,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,South Eastern Private Hospital,Noble Park,-37.9663045,145.1920296032381,"Noble Park, Noble Park North"
+3199,Southeastern municipalities and their suburbs,City of Frankston,Outer,Frankston Hospital,Frankston,-38.15078965,145.12815209622897,"Frankston, Frankston South"
+3910,Southeastern municipalities and their suburbs,City of Frankston,Outer,Peninsula Private Hospital,Langwarrin,-38.15786435,145.16914210500823,Langwarrin
+3165,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Monash Medical Centre Moorabbin,Bentleigh East,-37.92097205,145.0639103649765,Bentleigh East
+3162,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Caulfield Hospital,Caulfield,-37.8825892,145.01751230144663,"Caulfield, Caulfield South"
+3161,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Orthodontist,Caulfield North,-37.8774755,145.0241358,Caulfield North
+3169,Southeastern municipalities and their suburbs,City of Kingston,Mid,Monash Surgical Private,Clayton,-37.9219043,145.1206698,"Clarinda, Clayton South, Westall"
+3194,Southeastern municipalities and their suburbs,City of Kingston,Mid,Como Private Hospital,Parkdale,-37.99084715,145.0725035564311,Mentone
+3168,Southeastern municipalities and their suburbs,City of Monash,Mid,Jessie McPherson Private Hospital,Clayton,-37.9208228,145.1224428,"Clayton, Clayton North, Notting Hill"
+3150,Southeastern municipalities and their suburbs,City of Monash,Mid,The Victorian Rehabilitation Centre,Glen Waverley,-37.8980856,145.16044466909696,"Glen Waverley, Syndal, Wheelers Hill"
+3149,Southeastern municipalities and their suburbs,City of Monash,Mid,Waverley Private Hospital,Mount Waverley,-37.8843792,145.1455722,Mount Waverley
+3170,Southeastern municipalities and their suburbs,City of Monash,Mid,The Valley Private Hospital,Mulgrave,-37.9385893,145.21299692171803,Mulgrave
+3931,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,The Mornington Centre,Mornington,-38.23047045,145.04122124543113,Mornington
+3939,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Rosebud Hospital,Capel Sound,-38.3629259,144.88489698094384,"Rosebud, Rosebud South, Cape Schanck, Fingal"
+3915,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,The Bays Hospital,,-38.3037355,145.18962546762623,"Hastings, Hastings West"
+3144,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Cabrini Hospital,Malvern,-37.86180335,145.03350376898152,Malvern
+3181,Southeastern municipalities and their suburbs,City of Stonnington,Mid,The Avenue Hospital,Windsor,-37.85510835,144.99865945,"Prahran, Windsor"
+3021,Western municipalities and their suburbs,City of Brimbank,Mid,Sunshine Hospital,St Albans,-37.758736799999994,144.81752078211372,"Albanvale, Kealba, Kings Park, St Albans"
+3030,Western municipalities and their suburbs,City of Brimbank,Mid,St Vincent's Private Hospital Werribee,Werribee,-37.887971449999995,144.70212970401224,"Derrimut, Point Cook, Sanctuary Lakes, Werribee, Werribee South"
+3038,Western municipalities and their suburbs,City of Brimbank,Mid,Keilor Downs Surgery,Keilor Downs,-37.723615,144.8065555,"Keilor Downs, Keilor Lodge, Taylors Lakes"
+3018,Western municipalities and their suburbs,City of Hobsons Bay,Mid,,Altona,-37.8651567,144.8387644,"Altona, Seaholme"
+3016,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Williamstown Hospital,Williamstown,-37.86338215,144.89215101755576,"Williamstown, Williamstown North"
+3011,Western municipalities and their suburbs,City of Maribyrnong,Mid,Western Hospital,Footscray,-37.791940749999995,144.8866365950687,"Footscray, Seddon"
+3337,Western municipalities and their suburbs,City of Melton,Outer,Melton Health,Melton West,-37.6874637,144.55822628491705,"Kurunjang, Melton, Melton West"
