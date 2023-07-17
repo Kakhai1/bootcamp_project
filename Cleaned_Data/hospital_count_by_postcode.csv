@@ -3,7 +3,7 @@ POST_CODE,MUNICIPALITY,CITY_SHIRE,SUBURB_GROUP,Hospital_Count
 3016,Western municipalities and their suburbs,City of Hobsons Bay,Mid,1
 3018,Western municipalities and their suburbs,City of Hobsons Bay,Mid,0
 3021,Western municipalities and their suburbs,City of Brimbank,Mid,1
-3030,Western municipalities and their suburbs,City of Brimbank,Mid,1
+3030,Western municipalities and their suburbs,City of Wyndham,Outer,1
 3038,Western municipalities and their suburbs,City of Brimbank,Mid,1
 3042,Northern municipalities and their suburbs,City of Moonee Valley,Mid,1
 3044,Northern municipalities and their suburbs,City of Moreland,Mid,1
@@ -13,29 +13,29 @@ POST_CODE,MUNICIPALITY,CITY_SHIRE,SUBURB_GROUP,Hospital_Count
 3056,Northern municipalities and their suburbs,City of Moreland,Mid,0
 3058,Northern municipalities and their suburbs,City of Moreland,Mid,1
 3064,Northern municipalities and their suburbs,City of Hume,Outer,1
-3065,Inner City municipalities and their suburbs,City of Yarra,Mid,1
+3065,Inner City municipalities and their suburbs,City of Yarra,Inner,1
 3073,Northern municipalities and their suburbs,City of Darebin,Mid,1
 3076,Northern municipalities and their suburbs,City of Whittlesea,Outer,1
-3078,Inner City municipalities and their suburbs,City of Yarra,Mid,1
+3078,Inner City municipalities and their suburbs,City of Yarra,Inner,1
 3079,Northern municipalities and their suburbs,City of Banyule,Mid,1
 3083,Northern municipalities and their suburbs,City of Banyule,Mid,1
 3084,Northern municipalities and their suburbs,City of Banyule,Mid,1
 3101,Eastern municipalities and their suburbs,City of Boroondara,Mid,1
 3111,Eastern municipalities and their suburbs,City of Manningham,Mid,1
-3121,Inner City municipalities and their suburbs,City of Yarra,Mid,1
+3121,Inner City municipalities and their suburbs,City of Yarra,Inner,1
 3122,Eastern municipalities and their suburbs,City of Boroondara,Mid,1
 3125,Eastern municipalities and their suburbs,City of Whitehorse,Mid,1
 3127,Eastern municipalities and their suburbs,City of Boroondara,Mid,1
 3128,Eastern municipalities and their suburbs,City of Whitehorse,Mid,1
 3129,Eastern municipalities and their suburbs,City of Whitehorse,Mid,1
-3131,Eastern municipalities and their suburbs,City of Manningham,Mid,1
+3131,Eastern municipalities and their suburbs,City of Whitehorse,Mid,1
 3132,Eastern municipalities and their suburbs,City of Whitehorse,Mid,1
 3133,Eastern municipalities and their suburbs,City of Whitehorse,Mid,1
 3135,Eastern municipalities and their suburbs,City of Maroondah,Mid,1
 3138,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,1
 3140,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,1
 3144,Southeastern municipalities and their suburbs,City of Stonnington,Mid,1
-3146,Eastern municipalities and their suburbs,City of Boroondara,Mid,1
+3146,Southeastern municipalities and their suburbs,City of Stonnington,Mid,1
 3149,Southeastern municipalities and their suburbs,City of Monash,Mid,1
 3150,Southeastern municipalities and their suburbs,City of Monash,Mid,1
 3151,Eastern municipalities and their suburbs,City of Whitehorse,Mid,1
@@ -55,7 +55,7 @@ POST_CODE,MUNICIPALITY,CITY_SHIRE,SUBURB_GROUP,Hospital_Count
 3185,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,1
 3186,Southeastern municipalities and their suburbs,City of Bayside,Mid,1
 3188,Southeastern municipalities and their suburbs,City of Bayside,Mid,1
-3189,Southeastern municipalities and their suburbs,City of Bayside,Mid,1
+3189,Southeastern municipalities and their suburbs,City of Kingston,Mid,1
 3191,Southeastern municipalities and their suburbs,City of Bayside,Mid,1
 3194,Southeastern municipalities and their suburbs,City of Kingston,Mid,1
 3199,Southeastern municipalities and their suburbs,City of Frankston,Outer,1
