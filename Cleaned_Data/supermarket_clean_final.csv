@@ -1,0 +1,153 @@
+POST_CODE,MUNICIPALITY,CITY_SHIRE,SUBURB_GROUP,NAME,Suburb,Latitude,Longitude,SUBURB_NAMES
+3053,Inner City municipalities and their suburbs,City of Melbourne,Inner,King & Godfree,Carlton,-37.798456,144.967093,Carlton
+3054,Inner City municipalities and their suburbs,City of Yarra,Inner,Foodworks,Carlton North,-37.7889872,144.9760904,"Carlton North, Carlton North, Princes Hill"
+3031,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Foodworks,Kensington,-37.7943305,144.9298657,"Flemington, Kensington"
+3051,Inner City municipalities and their suburbs,City of Melbourne,Inner,North Melbourne Supa IGA + Liquor,North Melbourne,-37.8045946,144.9497728472503,North Melbourne
+3207,Inner City municipalities and their suburbs,City of Port Phillip,Inner,About Life,Port Melbourne,-37.84107,144.940275,"Port Melbourne, Port Melbourne, Garden City"
+3141,Southeastern municipalities and their suburbs,City of Stonnington,Mid,ALDI,South Yarra,-37.8458636,144.9935728,"South Yarra, South Yarra"
+3003,Inner City municipalities and their suburbs,City of Melbourne,Inner,ALDI,West Melbourne,-37.8079175,144.9485818733151,West Melbourne
+3206,Inner City municipalities and their suburbs,City of Port Phillip,Inner,Gumtree,Middle Park,-37.85074685,144.9637522958027,"Albert Park, Middle Park"
+3183,Inner City municipalities and their suburbs,City of Port Phillip,Inner,Woolworths,Balaclava,-37.868243,144.991277,"Balaclava, St Kilda East, St Kilda East"
+3182,Inner City municipalities and their suburbs,City of Port Phillip,Inner,Woolworths,St Kilda,-37.8685209,144.978811,"St Kilda, St Kilda West"
+3205,Inner City municipalities and their suburbs,City of Port Phillip,Inner,ALDI,Southbank,-37.829949,144.9573832,South Melbourne
+3067,Inner City municipalities and their suburbs,City of Yarra,Inner,ALDI,Abbotsford,-37.809602,144.9954593,Abbotsford
+3078,Inner City municipalities and their suburbs,City of Yarra,Inner,Oasis,Fairfield,-37.777905,145.0181124,"Alphington, Fairfield, Alphington, Fairfield"
+3121,Inner City municipalities and their suburbs,City of Yarra,Inner,Coles,Richmond,-37.8254909,144.9947938,"Burnley, Cremorne, Richmond"
+3068,Inner City municipalities and their suburbs,City of Yarra,Inner,McCoppins Food & Wine,Fitzroy North,-37.7888604,144.9895506,"Clifton Hill, Fitzroy North"
+3066,Inner City municipalities and their suburbs,City of Yarra,Inner,Coles,Collingwood,-37.803803,144.983619,Collingwood
+3065,Inner City municipalities and their suburbs,City of Yarra,Inner,Coles,Fitzroy,-37.79778295,144.97799202475238,Fitzroy
+3088,Northern municipalities and their suburbs,City of Banyule,Mid,Woolworths,Greensborough,-37.7048122,145.1000492459472,"Briar Hill, Greensborough, St Helena, Greensborough"
+3083,Northern municipalities and their suburbs,City of Banyule,Mid,Woolworths,Bundoora,-37.695027550000006,145.0585210566186,"Bundoora, Bundoora, Kingsbury, Bundoora"
+3084,Northern municipalities and their suburbs,City of Banyule,Mid,ALDI,Heidelberg,-37.75528455,145.06889030000002,"Eaglemont, Heidelberg, Rosanna, Viewbank"
+3095,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,Tip Top Butchers,Eltham,-37.7205919,145.1378733,"Eltham, Eltham North, Eltham, Eltham North, Research"
+3081,Northern municipalities and their suburbs,City of Banyule,Mid,ALDI,Heidelberg West,-37.7487656,145.0407238,"Heidelberg Heights, Heidelberg West"
+3079,Northern municipalities and their suburbs,City of Banyule,Mid,Coles,Ivanhoe,-37.7680454,145.0418526618643,"Ivanhoe, Ivanhoe East"
+3094,Northern municipalities and their suburbs,City of Banyule,Mid,Natural Food Market,Montmorency,-37.7165059,145.1209881,Montmorency
+3087,Northern municipalities and their suburbs,City of Banyule,Mid,IGA,Watsonia,-37.7126927,145.0925869,"Watsonia, Watsonia North"
+3070,Northern municipalities and their suburbs,City of Darebin,Mid,Terra Madre,Northcote,-37.779658749999996,144.9966349,"Northcote, Westgarth"
+3072,Northern municipalities and their suburbs,City of Darebin,Mid,Woolworths,Preston,-37.7371422,145.00283395229087,Preston
+3073,Northern municipalities and their suburbs,City of Darebin,Mid,Coles,Reservoir,-37.71460545,145.00727227420418,Reservoir
+3071,Northern municipalities and their suburbs,City of Darebin,Mid,Front Cover,Thornbury,-37.7527592,145.00182932347377,Thornbury
+3047,Northern municipalities and their suburbs,City of Hume,Outer,ALDI,Broadmeadows,-37.6784478,144.9196794,"Broadmeadows, Dallas, Jacana"
+3048,Northern municipalities and their suburbs,City of Hume,Outer,Coles,Roxburgh Park,-37.638387,144.9323564,"Coolaroo, Meadow Heights"
+3064,Northern municipalities and their suburbs,City of Hume,Outer,ALDI,Craigieburn,-37.5946365,144.9143905,"Craigieburn, Roxburgh Park, Kalkallo, Mickleham, Donnybrook"
+3043,Northern municipalities and their suburbs,City of Moreland,Mid,ALDI,Gladstone Park,-37.6875338,144.8843357,"Gladstone Park, Tullamarine, Gowanbrae, Tullamarine"
+3429,Northern municipalities and their suburbs,City of Hume,Outer,ALDI,,-37.57827055,144.71236817513807,Sunbury
+3040,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Foodworks,Essendon,-37.7544234,144.9155326,"Aberfeldie, Essendon, Essendon West"
+3042,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Coles,Airport West,-37.7149789,144.88468,"Airport West, Niddrie, Keilor Park"
+3032,Northern municipalities and their suburbs,City of Moonee Valley,Mid,ALDI,Maribyrnong,-37.7842971,144.89222954142537,"Ascot Vale, Travancore, Maribyrnong"
+3034,Northern municipalities and their suburbs,City of Moonee Valley,Mid,ALDI,Keilor East,-37.7497051,144.8605537,Avondale Heights
+3041,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Coles,Essendon Fields,-37.7272917,144.895358,"Essendon North, Strathmore, Strathmore Heights"
+3039,Northern municipalities and their suburbs,City of Moonee Valley,Mid,ALDI,Moonee Ponds,-37.7653328,144.9230314,Moonee Ponds
+3056,Northern municipalities and their suburbs,City of Moreland,Mid,Woolworths,Brunswick,-37.7758181,144.9618499,Brunswick
+3057,Northern municipalities and their suburbs,City of Moreland,Mid,Organic Wholefoods,Brunswick East,-37.7634376,144.9730183,Brunswick East
+3055,Northern municipalities and their suburbs,City of Moreland,Mid,Melba's Food Hall,Brunswick West,-37.77189135,144.94983320385953,Brunswick West
+3058,Northern municipalities and their suburbs,City of Moreland,Mid,Woolworths,Coburg,-37.7437827,144.96382497127422,"Coburg, Coburg East, Coburg North"
+3060,Northern municipalities and their suburbs,City of Moreland,Mid,Coles,Campbellfield,-37.6888305,144.9600049,Fawkner
+3046,Northern municipalities and their suburbs,City of Moreland,Mid,Coles,Glenroy,-37.70531775,144.91680331001749,"Glenroy, Hadfield, Oak Park"
+3044,Northern municipalities and their suburbs,City of Moreland,Mid,Piedimonte's IGA,Pascoe Vale South,-37.7392053,144.9467635,"Pascoe Vale, Pascoe Vale South, Coonans Hill"
+3076,Northern municipalities and their suburbs,City of Whittlesea,Outer,Woolworths,Epping,-37.6278019,145.0274063,Epping
+3075,Northern municipalities and their suburbs,City of Whittlesea,Outer,Woolworths,Lalor,-37.67228935,145.01453524720932,Lalor
+3082,Northern municipalities and their suburbs,City of Whittlesea,Outer,Woolworths,South Morang,-37.6485806,145.07500176193406,Mill Park
+3752,Northern municipalities and their suburbs,City of Whittlesea,Outer,Coles,South Morang,-37.6296782,145.0793500114724,South Morang
+3074,Northern municipalities and their suburbs,City of Whittlesea,Outer,FoodWorks Thomastown,Thomastown,-37.6813787,145.0253087,Thomastown
+3103,Eastern municipalities and their suburbs,City of Boroondara,Mid,Coles,Balwyn,-37.8038542,145.1021788,"Balwyn, Deepdene"
+3104,Eastern municipalities and their suburbs,City of Boroondara,Mid,ALDI,Balwyn North,-37.7912353,145.0947384,Balwyn North
+3122,Eastern municipalities and their suburbs,City of Boroondara,Mid,Renaissance IGA,Hawthorn,-37.82824645,145.03463277349132,Hawthorn
+3123,Eastern municipalities and their suburbs,City of Boroondara,Mid,Woolworths,Hawthorn East,-37.8456299,145.0422777,Hawthorn East
+3101,Eastern municipalities and their suburbs,City of Boroondara,Mid,Leo's Fine Food & Wine,Kew,-37.806275600000006,145.0292848804172,Kew
+3102,Eastern municipalities and their suburbs,City of Boroondara,Mid,IGA,Kew East,-37.798545,145.0520745,"Kew East, Kew North"
+3127,Eastern municipalities and their suburbs,City of Boroondara,Mid,Coles Local,Surrey Hills,-37.824167700000004,145.09724160860884,"Mont Albert, Mont Albert North, Surrey Hills, Mont Albert, Surrey Hills"
+3153,Eastern municipalities and their suburbs,City of Knox,Mid,Woolworths,Bayswater,-37.84083255,145.26266705457908,"Bayswater, Bayswater North"
+3155,Eastern municipalities and their suburbs,City of Knox,Mid,Coles,Boronia,-37.8612829,145.2875436,Boronia
+3156,Eastern municipalities and their suburbs,City of Knox,Mid,Woolworths,Ferntree Gully,-37.88943505,145.29366295946193,"Ferntree Gully, Lysterfield, Upper Ferntree Gully, Upper Ferntree Gully, Lysterfield, Lysterfield South"
+3180,Eastern municipalities and their suburbs,City of Knox,Mid,IGA,Knoxfield,-37.8943769,145.2497208,Knoxfield
+3178,Eastern municipalities and their suburbs,City of Knox,Mid,ALDI,Rowville,-37.9287015,145.2513265,Rowville
+3152,Eastern municipalities and their suburbs,City of Knox,Mid,Ritchies,Wantirna,-37.847752400000005,145.23303317234496,"Wantirna, Wantirna South, Studfield"
+3105,Eastern municipalities and their suburbs,City of Manningham,Mid,Coles,Bulleen,-37.7652693,145.0918512,Bulleen
+3108,Eastern municipalities and their suburbs,City of Manningham,Mid,Coles,Doncaster,-37.7869266,145.1257942,Doncaster
+3109,Eastern municipalities and their suburbs,City of Manningham,Mid,Coles,Doncaster East,-37.7914336,145.1718422,Doncaster East
+3106,Eastern municipalities and their suburbs,City of Manningham,Mid,The South African Shop,Templestowe,-37.757048,145.1281259,Templestowe
+3107,Eastern municipalities and their suburbs,City of Manningham,Mid,ALDI,Templestowe Lower,-37.7731793,145.1118816,"Templestowe Lower, Macedon"
+3131,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Woolworths,Forest Hill,-37.837560800000006,145.18437865769067,"Nunawading, Forest Hill, Nunawading"
+3134,Eastern municipalities and their suburbs,City of Maroondah,Mid,Costco,Ringwood,-37.81443385,145.22540258708432,"Ringwood North, Ringwood, Ringwood North, Warranwood"
+3136,Eastern municipalities and their suburbs,City of Maroondah,Mid,Jefferies | Your Local Provedore,Croydon Hills,-37.7832893,145.26929059196186,"Croydon, Croydon Hills, Croydon North, Croydon South"
+3135,Eastern municipalities and their suburbs,City of Maroondah,Mid,Foodworks,Heathmont,-37.8305315,145.2438166,"Heathmont, Eastwood, Ringwood East"
+3130,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Coles,Blackburn North,-37.8112818,145.1535054,"Blackburn, Blackburn North, Blackburn South"
+3128,Eastern municipalities and their suburbs,City of Whitehorse,Mid,ALDI,Box Hill South,-37.82938505,145.12087492328192,"Box Hill, Box Hill South"
+3125,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Woolworths,Ashwood,-37.86643395,145.09374468000192,"Burwood, Burwood"
+3151,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Coles,Burwood East,-37.8535375,145.1487011,Burwood East
+3132,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Coles,Mitcham,-37.8153201,145.19277983840948,Mitcham
+3133,Eastern municipalities and their suburbs,City of Whitehorse,Mid,ALDI,Vermont South,-37.8556553,145.1823871,"Vermont, Vermont South"
+3160,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,IGA,Belgrave South,-37.93169485,145.35814164445577,"Belgrave, Belgrave Heights, Belgrave South, Tecoma"
+3116,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Woolworths,Chirnside Park,-37.7577207,145.3136509,Chirnside Park
+3140,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,ALDI,Lilydale,-37.76086195,145.34920442840058,Lilydale
+3765,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,IGA,Montrose,-37.81065785,145.34316810592378,Montrose
+3138,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Coles,Mooroolbark,-37.7848321,145.31535518872727,Mooroolbark
+3158,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,IGA,Upwey,-37.9041693,145.3311823805039,Upwey
+3777,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Spiral Tubes,,-37.6559749,145.5061028,"Badger Creek, Healesville, Healesville"
+3793,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Woolworths,Monbulk,-37.8753514,145.408825,Monbulk
+3186,Southeastern municipalities and their suburbs,City of Bayside,Mid,Coles,Brighton,-37.9060865,145.0051856,Brighton
+3192,Southeastern municipalities and their suburbs,City of Bayside,Mid,ALDI,Cheltenham,-37.9590509,145.0548965,"Cheltenham, Cheltenham, Cheltenham East, Cheltenham North"
+3188,Southeastern municipalities and their suburbs,City of Bayside,Mid,Coles,Hampton,-37.945352299999996,145.0217911853768,"Hampton, Hampton East"
+3190,Southeastern municipalities and their suburbs,City of Bayside,Mid,ALDI,Cheltenham,-37.955916599999995,145.03342477884854,"Highett, Highett"
+3191,Southeastern municipalities and their suburbs,City of Bayside,Mid,Coles,Sandringham,-37.949435,145.0033564,Sandringham
+3189,Southeastern municipalities and their suburbs,City of Kingston,Mid,Schutties Fasteners Pty LTd,Moorabbin,-37.942006,145.0678261,"Moorabbin, Moorabbin"
+3807,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,ALDI,Beaconsfield,-38.0447574,145.36791040247576,Beaconsfield
+3810,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,ALDI,Pakenham,-38.0645837,145.45470987118102,Pakenham
+3806,Southeastern municipalities and their suburbs,City of Casey,Outer,Woolworths,Berwick,-38.0295132,145.3468395,Berwick
+3977,Southeastern municipalities and their suburbs,City of Casey,Outer,ALDI,Lyndhurst,-38.07809925,145.25074483781418,"Botanic Ridge, Cranbourne, Cranbourne East, Cranbourne North, Cranbourne West, Cranbourne South, Junction Village, Fiveways, Sandhurst, Skye"
+3177,Southeastern municipalities and their suburbs,City of Casey,Outer,ALDI,Dandenong,-37.9833906,145.2161115,"Doveton, Eumemmerring"
+3802,Southeastern municipalities and their suburbs,City of Casey,Outer,Coles,Endeavour Hills,-37.9775146,145.2582292,Endeavour Hills
+3976,Southeastern municipalities and their suburbs,City of Casey,Outer,ALDI,Hampton Park,-38.034581,145.2842878,Hampton Park
+3975,Southeastern municipalities and their suburbs,City of Casey,Outer,Coles,Lynbrook,-38.0522568,145.2568486,"Lynbrook, Lyndhurst"
+3805,Southeastern municipalities and their suburbs,City of Casey,Outer,ALDI,Narre Warren,-38.017448,145.3010818,"Narre Warren, Narre Warren South"
+3912,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,ALDI,Somerville,-38.2249896,145.1774728,"Pearcedale, Somerville, Pearcedale"
+3175,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Coles,Dandenong,-37.9828511,145.2136939,"Dandenong, Dandenong North"
+3173,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Woolworths,Keysborough,-38.0117526,145.1606959,Keysborough
+3174,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Coles,Noble Park,-37.9654121,145.1730576,"Noble Park, Noble Park North"
+3171,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Coles,Springvale,-37.9347488,145.1568383,Springvale
+3172,Southeastern municipalities and their suburbs,City of Kingston,Mid,Woolworths,Dingley Village,-37.9834708,145.1329898,"Springvale South, Dingley Village"
+3201,Southeastern municipalities and their suburbs,City of Frankston,Outer,ALDI,Carrum Downs,-38.1102384,145.16103415813782,Carrum Downs
+3199,Southeastern municipalities and their suburbs,City of Frankston,Outer,Ritchies IGA,Frankston,-38.1472948,145.1446937193287,"Frankston, Frankston South"
+3910,Southeastern municipalities and their suburbs,City of Frankston,Outer,Coles,Langwarrin,-38.1511574,145.19659208326095,Langwarrin
+3198,Southeastern municipalities and their suburbs,City of Frankston,Outer,Ritchies IGA,Seaford,-38.1122489,145.1566421,Seaford
+3204,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,ALDI,Bentleigh,-37.9175749,145.0340529035377,"Bentleigh, McKinnon, Ormond"
+3162,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Woolworths,Glen Huntly,-37.8889635,145.0410142759333,"Caulfield, Caulfield South"
+3163,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,ALDI,Carnegie,-37.8846726,145.0588846,"Carnegie, Glen Huntly, Murrumbeena"
+3195,Southeastern municipalities and their suburbs,City of Kingston,Mid,ALDI,Mordialloc,-38.0060286,145.0852374,"Aspendale, Aspendale Gardens, Mordialloc, Parkdale, Waterways"
+3196,Southeastern municipalities and their suburbs,City of Kingston,Mid,Chelsea Heights IGA,Chelsea Heights,-38.0451707,145.1362888,"Bonbeach, Chelsea, Chelsea Heights, Edithvale"
+3197,Southeastern municipalities and their suburbs,City of Kingston,Mid,ALDI,Carrum,-38.0766584,145.1235572330532,"Carrum, Patterson Lakes, Patterson Gardens"
+3169,Southeastern municipalities and their suburbs,City of Kingston,Mid,Top Mart,Clayton,-37.927615700000004,145.11892590340886,"Clarinda, Clayton South, Westall"
+3194,Southeastern municipalities and their suburbs,City of Kingston,Mid,ALDI,Mentone,-37.975193899999994,145.06769304172644,Mentone
+3168,Southeastern municipalities and their suburbs,City of Monash,Mid,Coles,Clayton,-37.9280896,145.1181472,"Clayton, Clayton North, Notting Hill"
+3150,Southeastern municipalities and their suburbs,City of Monash,Mid,ALDI,Glen Waverley,-37.8750268,145.164852,"Glen Waverley, Syndal, Wheelers Hill"
+3166,Southeastern municipalities and their suburbs,City of Monash,Mid,The WaterStop Shop,Oakleigh,-37.8926895,145.0942006,"Hughesdale, Huntingdale, Oakleigh, Oakleigh East"
+3149,Southeastern municipalities and their suburbs,City of Monash,Mid,Ritchie's IGA,Mount Waverley,-37.8763513,145.1285091,Mount Waverley
+3170,Southeastern municipalities and their suburbs,City of Monash,Mid,Woolworths,Mulgrave,-37.935591,145.1885926,Mulgrave
+3936,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,ALDI,Dromana,-38.33038195,144.98709230069073,"Dromana, Safety Beach"
+3931,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,ALDI,Mornington,-38.2199315,145.06287276024923,Mornington
+3930,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Ritchies,Mount Eliza,-38.1851366,145.0898437,Mount Eliza
+3939,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Coles,Rosebud,-38.3614651,144.8921554,"Rosebud, Rosebud South, Cape Schanck, Fingal"
+3915,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Coles,,-38.306256149999996,145.19146488788743,"Hastings, Hastings West"
+3144,Southeastern municipalities and their suburbs,City of Stonnington,Mid,IGA,Malvern,-37.8532747,145.0414858,Malvern
+3145,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Coles,Caulfield East,-37.876108,145.0429342,Malvern East
+3181,Southeastern municipalities and their suburbs,City of Stonnington,Mid,The Source Bulk Foods,South Yarra,-37.8466976,144.991997,"Prahran, Windsor"
+3142,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Woolworths,Toorak,-37.8481054,145.0052368,Toorak
+3021,Western municipalities and their suburbs,City of Brimbank,Mid,Foodworks,St Albans,-37.73442025,144.80599649856634,"Albanvale, Kealba, Kings Park, St Albans"
+3020,Western municipalities and their suburbs,City of Brimbank,Mid,Sunshine Fruit Market,Sunshine,-37.7848052,144.8331028,"Albion, Sunshine, Sunshine North, Sunshine West"
+3012,Western municipalities and their suburbs,City of Maribyrnong,Mid,ALDI,West Footscray,-37.7930599,144.8607906,"Brooklyn, Brooklyn, Kingsville, Maidstone, West Footscray"
+3023,Western municipalities and their suburbs,City of Brimbank,Mid,IGA,Deer Park,-37.7777999,144.7559358,"Cairnlea, Deer Park, Burnside, Burnside Heights, Caroline Springs, Cobblebank, Deanside"
+3037,Western municipalities and their suburbs,City of Brimbank,Mid,Woolworths,Taylors Hill,-37.7230371,144.7516,"Delahey, Sydenham"
+3030,Western municipalities and their suburbs,City of Wyndham,Outer,Coles,Point Cook,-37.8951123,144.7529168,"Derrimut, Point Cook, Sanctuary Lakes, Werribee, Werribee South"
+3038,Western municipalities and their suburbs,City of Brimbank,Mid,Woolworths,Taylors Lakes,-37.7024047,144.7994466,"Keilor Downs, Keilor Lodge, Taylors Lakes"
+3018,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Coles,Altona,-37.868937849999995,144.8299895769772,"Altona, Seaholme"
+3028,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Spicelines,Laverton,-37.867266349999994,144.7610073882782,"Altona Meadows, Laverton South, Laverton, Seabrook, Laverton"
+3025,Western municipalities and their suburbs,City of Hobsons Bay,Mid,ALDI,Altona North,-37.84473869999999,144.8454614020011,"Altona North, Altona East"
+3016,Western municipalities and their suburbs,City of Hobsons Bay,Mid,Woolworths,Williamstown,-37.8577633,144.8825866,"Williamstown, Williamstown North"
+3011,Western municipalities and their suburbs,City of Maribyrnong,Mid,The Happy Apple,Seddon,-37.8059935,144.8915717812015,"Footscray, Seddon"
+3013,Western municipalities and their suburbs,City of Maribyrnong,Mid,Alligator Brand Pasta,Yarraville,-37.8213532,144.89622068309524,"Yarraville, Aintree, Bonnie Brook"
+3338,Western municipalities and their suburbs,City of Melton,Outer,Coles,Melton South,-37.7017311,144.574255,"Brookfield, Eynesbury, Fraser Rise, Harkness, Melton South, Eynesbury"
+3337,Western municipalities and their suburbs,City of Melton,Outer,ALDI,,-37.683050550000004,144.5788715714781,"Kurunjang, Melton, Melton West"
+3029,Western municipalities and their suburbs,City of Wyndham,Outer,IGA,Hoppers Crossing,-37.8612753,144.6742753,"Truganina, Weir Views, Hoppers Crossing, Tarneit, Truganina"
+3024,Western municipalities and their suburbs,City of Wyndham,Outer,ALDI,Wyndham Vale,-37.887483849999995,144.60720363420654,"Manor Lakes, Wyndham Vale, Mambourin"
