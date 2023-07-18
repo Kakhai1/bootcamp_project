@@ -1,0 +1,1094 @@
+POST_CODE,POST_CODE,Offence Division,Sum
+0,3003,A Crimes against the person,13
+1,3003,B Property and deception offences,17
+2,3003,C Drug offences,3
+3,3003,D Public order and security offences,7
+4,3003,E Justice procedures offences,5
+5,3003,F Other offences,4
+6,3011,A Crimes against the person,25
+7,3011,B Property and deception offences,31
+8,3011,C Drug offences,6
+9,3011,D Public order and security offences,13
+10,3011,E Justice procedures offences,10
+11,3011,F Other offences,4
+12,3012,A Crimes against the person,42
+13,3012,B Property and deception offences,65
+14,3012,C Drug offences,10
+15,3012,D Public order and security offences,17
+16,3012,E Justice procedures offences,17
+17,3013,A Crimes against the person,15
+18,3013,B Property and deception offences,16
+19,3013,C Drug offences,4
+20,3013,D Public order and security offences,7
+21,3013,E Justice procedures offences,7
+22,3015,A Crimes against the person,23
+23,3015,B Property and deception offences,37
+24,3015,C Drug offences,6
+25,3015,D Public order and security offences,12
+26,3015,E Justice procedures offences,9
+27,3015,F Other offences,1
+28,3016,A Crimes against the person,18
+29,3016,B Property and deception offences,31
+30,3016,C Drug offences,5
+31,3016,D Public order and security offences,14
+32,3016,E Justice procedures offences,6
+33,3016,F Other offences,4
+34,3018,A Crimes against the person,20
+35,3018,B Property and deception offences,25
+36,3018,C Drug offences,5
+37,3018,D Public order and security offences,9
+38,3018,E Justice procedures offences,10
+39,3018,F Other offences,5
+40,3019,A Crimes against the person,13
+41,3019,B Property and deception offences,16
+42,3019,C Drug offences,4
+43,3019,D Public order and security offences,7
+44,3019,E Justice procedures offences,6
+45,3020,A Crimes against the person,49
+46,3020,B Property and deception offences,59
+47,3020,C Drug offences,13
+48,3020,D Public order and security offences,23
+49,3020,E Justice procedures offences,24
+50,3020,F Other offences,5
+51,3021,A Crimes against the person,44
+52,3021,B Property and deception offences,53
+53,3021,C Drug offences,14
+54,3021,D Public order and security offences,19
+55,3021,E Justice procedures offences,18
+56,3021,F Other offences,3
+57,3022,A Crimes against the person,7
+58,3022,B Property and deception offences,11
+59,3022,C Drug offences,3
+60,3022,D Public order and security offences,3
+61,3022,E Justice procedures offences,4
+62,3022,F Other offences,1
+63,3023,A Crimes against the person,61
+64,3023,B Property and deception offences,64
+65,3023,C Drug offences,15
+66,3023,D Public order and security offences,24
+67,3023,E Justice procedures offences,25
+68,3023,F Other offences,5
+69,3024,A Crimes against the person,42
+70,3024,B Property and deception offences,50
+71,3024,C Drug offences,8
+72,3024,D Public order and security offences,13
+73,3024,E Justice procedures offences,17
+74,3024,F Other offences,1
+75,3025,A Crimes against the person,14
+76,3025,B Property and deception offences,16
+77,3025,C Drug offences,3
+78,3025,D Public order and security offences,7
+79,3025,E Justice procedures offences,4
+80,3025,F Other offences,2
+81,3028,A Crimes against the person,37
+82,3028,B Property and deception offences,45
+83,3028,C Drug offences,10
+84,3028,D Public order and security offences,17
+85,3028,E Justice procedures offences,12
+86,3028,F Other offences,1
+87,3029,A Crimes against the person,53
+88,3029,B Property and deception offences,60
+89,3029,C Drug offences,13
+90,3029,D Public order and security offences,23
+91,3029,E Justice procedures offences,22
+92,3029,F Other offences,9
+93,3030,A Crimes against the person,44
+94,3030,B Property and deception offences,56
+95,3030,C Drug offences,13
+96,3030,D Public order and security offences,18
+97,3030,E Justice procedures offences,19
+98,3030,F Other offences,6
+99,3031,A Crimes against the person,33
+100,3031,B Property and deception offences,51
+101,3031,C Drug offences,8
+102,3031,D Public order and security offences,18
+103,3031,E Justice procedures offences,14
+104,3031,F Other offences,2
+105,3032,A Crimes against the person,37
+106,3032,B Property and deception offences,40
+107,3032,C Drug offences,8
+108,3032,D Public order and security offences,15
+109,3032,E Justice procedures offences,14
+110,3032,F Other offences,1
+111,3033,A Crimes against the person,15
+112,3033,B Property and deception offences,22
+113,3033,C Drug offences,4
+114,3033,D Public order and security offences,4
+115,3033,E Justice procedures offences,6
+116,3034,A Crimes against the person,10
+117,3034,B Property and deception offences,14
+118,3034,C Drug offences,3
+119,3034,D Public order and security offences,5
+120,3034,E Justice procedures offences,6
+121,3034,F Other offences,2
+122,3036,A Crimes against the person,14
+123,3036,B Property and deception offences,22
+124,3036,C Drug offences,3
+125,3036,D Public order and security offences,3
+126,3036,E Justice procedures offences,7
+127,3036,F Other offences,1
+128,3037,A Crimes against the person,42
+129,3037,B Property and deception offences,51
+130,3037,C Drug offences,12
+131,3037,D Public order and security offences,15
+132,3037,E Justice procedures offences,19
+133,3037,F Other offences,2
+134,3038,A Crimes against the person,30
+135,3038,B Property and deception offences,34
+136,3038,C Drug offences,7
+137,3038,D Public order and security offences,14
+138,3038,E Justice procedures offences,10
+139,3039,A Crimes against the person,18
+140,3039,B Property and deception offences,18
+141,3039,C Drug offences,3
+142,3039,D Public order and security offences,5
+143,3039,E Justice procedures offences,6
+144,3039,F Other offences,1
+145,3040,A Crimes against the person,27
+146,3040,B Property and deception offences,33
+147,3040,C Drug offences,6
+148,3040,D Public order and security offences,11
+149,3040,E Justice procedures offences,10
+150,3040,F Other offences,3
+151,3041,A Crimes against the person,28
+152,3041,B Property and deception offences,42
+153,3041,C Drug offences,5
+154,3041,D Public order and security offences,10
+155,3041,E Justice procedures offences,16
+156,3042,A Crimes against the person,28
+157,3042,B Property and deception offences,37
+158,3042,C Drug offences,8
+159,3042,D Public order and security offences,12
+160,3042,E Justice procedures offences,11
+161,3043,A Crimes against the person,36
+162,3043,B Property and deception offences,45
+163,3043,C Drug offences,9
+164,3043,D Public order and security offences,12
+165,3043,E Justice procedures offences,18
+166,3043,F Other offences,3
+167,3044,A Crimes against the person,28
+168,3044,B Property and deception offences,31
+169,3044,C Drug offences,6
+170,3044,D Public order and security offences,7
+171,3044,E Justice procedures offences,8
+172,3044,F Other offences,2
+173,3046,A Crimes against the person,36
+174,3046,B Property and deception offences,40
+175,3046,C Drug offences,9
+176,3046,D Public order and security offences,14
+177,3046,E Justice procedures offences,16
+178,3046,F Other offences,2
+179,3047,A Crimes against the person,41
+180,3047,B Property and deception offences,44
+181,3047,C Drug offences,9
+182,3047,D Public order and security offences,21
+183,3047,E Justice procedures offences,19
+184,3047,F Other offences,2
+185,3048,A Crimes against the person,27
+186,3048,B Property and deception offences,29
+187,3048,C Drug offences,7
+188,3048,D Public order and security offences,9
+189,3048,E Justice procedures offences,12
+190,3048,F Other offences,3
+191,3051,A Crimes against the person,15
+192,3051,B Property and deception offences,16
+193,3051,C Drug offences,3
+194,3051,D Public order and security offences,8
+195,3051,E Justice procedures offences,7
+196,3051,F Other offences,3
+197,3052,A Crimes against the person,23
+198,3052,B Property and deception offences,26
+199,3052,C Drug offences,3
+200,3052,D Public order and security offences,11
+201,3052,E Justice procedures offences,8
+202,3052,F Other offences,2
+203,3053,A Crimes against the person,17
+204,3053,B Property and deception offences,16
+205,3053,C Drug offences,3
+206,3053,D Public order and security offences,8
+207,3053,E Justice procedures offences,6
+208,3053,F Other offences,1
+209,3054,A Crimes against the person,21
+210,3054,B Property and deception offences,33
+211,3054,C Drug offences,3
+212,3054,D Public order and security offences,9
+213,3054,E Justice procedures offences,5
+214,3055,A Crimes against the person,15
+215,3055,B Property and deception offences,18
+216,3055,C Drug offences,3
+217,3055,D Public order and security offences,5
+218,3055,E Justice procedures offences,6
+219,3056,A Crimes against the person,18
+220,3056,B Property and deception offences,22
+221,3056,C Drug offences,4
+222,3056,D Public order and security offences,9
+223,3056,E Justice procedures offences,8
+224,3056,F Other offences,4
+225,3057,A Crimes against the person,14
+226,3057,B Property and deception offences,16
+227,3057,C Drug offences,2
+228,3057,D Public order and security offences,7
+229,3057,E Justice procedures offences,4
+230,3058,A Crimes against the person,27
+231,3058,B Property and deception offences,31
+232,3058,C Drug offences,8
+233,3058,D Public order and security offences,10
+234,3058,E Justice procedures offences,13
+235,3058,F Other offences,2
+236,3059,A Crimes against the person,14
+237,3059,B Property and deception offences,14
+238,3059,C Drug offences,4
+239,3059,D Public order and security offences,7
+240,3059,E Justice procedures offences,5
+241,3060,A Crimes against the person,21
+242,3060,B Property and deception offences,26
+243,3060,C Drug offences,4
+244,3060,D Public order and security offences,5
+245,3060,E Justice procedures offences,9
+246,3061,A Crimes against the person,14
+247,3061,B Property and deception offences,17
+248,3061,C Drug offences,4
+249,3061,D Public order and security offences,7
+250,3061,E Justice procedures offences,7
+251,3061,F Other offences,2
+252,3064,A Crimes against the person,60
+253,3064,B Property and deception offences,65
+254,3064,C Drug offences,16
+255,3064,D Public order and security offences,24
+256,3064,E Justice procedures offences,26
+257,3064,F Other offences,6
+258,3065,A Crimes against the person,16
+259,3065,B Property and deception offences,19
+260,3065,C Drug offences,4
+261,3065,D Public order and security offences,9
+262,3065,E Justice procedures offences,6
+263,3065,F Other offences,1
+264,3066,A Crimes against the person,16
+265,3066,B Property and deception offences,22
+266,3066,C Drug offences,4
+267,3066,D Public order and security offences,8
+268,3066,E Justice procedures offences,8
+269,3066,F Other offences,1
+270,3067,A Crimes against the person,16
+271,3067,B Property and deception offences,17
+272,3067,C Drug offences,3
+273,3067,D Public order and security offences,8
+274,3067,E Justice procedures offences,7
+275,3067,F Other offences,1
+276,3068,A Crimes against the person,26
+277,3068,B Property and deception offences,38
+278,3068,C Drug offences,5
+279,3068,D Public order and security offences,13
+280,3068,E Justice procedures offences,11
+281,3068,F Other offences,3
+282,3070,A Crimes against the person,14
+283,3070,B Property and deception offences,18
+284,3070,C Drug offences,3
+285,3070,D Public order and security offences,9
+286,3070,E Justice procedures offences,6
+287,3070,F Other offences,2
+288,3071,A Crimes against the person,14
+289,3071,B Property and deception offences,18
+290,3071,C Drug offences,3
+291,3071,D Public order and security offences,9
+292,3071,E Justice procedures offences,7
+293,3072,A Crimes against the person,18
+294,3072,B Property and deception offences,20
+295,3072,C Drug offences,4
+296,3072,D Public order and security offences,9
+297,3072,E Justice procedures offences,7
+298,3072,F Other offences,4
+299,3073,A Crimes against the person,17
+300,3073,B Property and deception offences,21
+301,3073,C Drug offences,5
+302,3073,D Public order and security offences,11
+303,3073,E Justice procedures offences,8
+304,3073,F Other offences,3
+305,3074,A Crimes against the person,17
+306,3074,B Property and deception offences,17
+307,3074,C Drug offences,5
+308,3074,D Public order and security offences,8
+309,3074,E Justice procedures offences,6
+310,3074,F Other offences,2
+311,3075,A Crimes against the person,14
+312,3075,B Property and deception offences,16
+313,3075,C Drug offences,4
+314,3075,D Public order and security offences,7
+315,3075,E Justice procedures offences,7
+316,3075,F Other offences,2
+317,3076,A Crimes against the person,17
+318,3076,B Property and deception offences,18
+319,3076,C Drug offences,5
+320,3076,D Public order and security offences,9
+321,3076,E Justice procedures offences,7
+322,3078,A Crimes against the person,26
+323,3078,B Property and deception offences,45
+324,3078,C Drug offences,3
+325,3078,D Public order and security offences,8
+326,3078,E Justice procedures offences,11
+327,3079,A Crimes against the person,22
+328,3079,B Property and deception offences,27
+329,3079,C Drug offences,4
+330,3079,D Public order and security offences,7
+331,3079,E Justice procedures offences,10
+332,3079,F Other offences,1
+333,3081,A Crimes against the person,39
+334,3081,B Property and deception offences,39
+335,3081,C Drug offences,8
+336,3081,D Public order and security offences,15
+337,3081,E Justice procedures offences,17
+338,3081,F Other offences,2
+339,3082,A Crimes against the person,17
+340,3082,B Property and deception offences,18
+341,3082,C Drug offences,6
+342,3082,D Public order and security offences,11
+343,3082,E Justice procedures offences,9
+344,3082,F Other offences,3
+345,3083,A Crimes against the person,43
+346,3083,B Property and deception offences,49
+347,3083,C Drug offences,14
+348,3083,D Public order and security offences,19
+349,3083,E Justice procedures offences,17
+350,3083,F Other offences,3
+351,3084,A Crimes against the person,35
+352,3084,B Property and deception offences,45
+353,3084,C Drug offences,9
+354,3084,D Public order and security offences,14
+355,3084,E Justice procedures offences,18
+356,3084,F Other offences,2
+357,3087,A Crimes against the person,12
+358,3087,B Property and deception offences,20
+359,3087,C Drug offences,4
+360,3087,D Public order and security offences,4
+361,3087,E Justice procedures offences,8
+362,3087,F Other offences,1
+363,3088,A Crimes against the person,29
+364,3088,B Property and deception offences,39
+365,3088,C Drug offences,5
+366,3088,D Public order and security offences,13
+367,3088,E Justice procedures offences,12
+368,3088,F Other offences,3
+369,3094,A Crimes against the person,10
+370,3094,B Property and deception offences,12
+371,3094,C Drug offences,4
+372,3094,D Public order and security offences,3
+373,3094,E Justice procedures offences,2
+374,3095,A Crimes against the person,32
+375,3095,B Property and deception offences,37
+376,3095,C Drug offences,6
+377,3095,D Public order and security offences,10
+378,3095,E Justice procedures offences,10
+379,3095,F Other offences,2
+380,3096,A Crimes against the person,2
+381,3096,B Property and deception offences,6
+382,3096,C Drug offences,1
+383,3096,E Justice procedures offences,1
+384,3099,A Crimes against the person,12
+385,3099,B Property and deception offences,17
+386,3099,C Drug offences,3
+387,3099,D Public order and security offences,4
+388,3099,E Justice procedures offences,4
+389,3101,A Crimes against the person,15
+390,3101,B Property and deception offences,18
+391,3101,C Drug offences,4
+392,3101,D Public order and security offences,9
+393,3101,E Justice procedures offences,6
+394,3101,F Other offences,1
+395,3102,A Crimes against the person,10
+396,3102,B Property and deception offences,13
+397,3102,C Drug offences,4
+398,3102,D Public order and security offences,2
+399,3102,E Justice procedures offences,5
+400,3103,A Crimes against the person,17
+401,3103,B Property and deception offences,24
+402,3103,C Drug offences,4
+403,3103,D Public order and security offences,8
+404,3103,E Justice procedures offences,4
+405,3103,F Other offences,2
+406,3104,A Crimes against the person,15
+407,3104,B Property and deception offences,14
+408,3104,C Drug offences,4
+409,3104,D Public order and security offences,5
+410,3104,E Justice procedures offences,5
+411,3105,A Crimes against the person,9
+412,3105,B Property and deception offences,12
+413,3105,C Drug offences,4
+414,3105,D Public order and security offences,2
+415,3105,E Justice procedures offences,4
+416,3106,A Crimes against the person,13
+417,3106,B Property and deception offences,13
+418,3106,C Drug offences,2
+419,3106,D Public order and security offences,6
+420,3106,E Justice procedures offences,4
+421,3107,A Crimes against the person,14
+422,3107,B Property and deception offences,16
+423,3107,C Drug offences,3
+424,3107,D Public order and security offences,5
+425,3107,E Justice procedures offences,5
+426,3108,A Crimes against the person,16
+427,3108,B Property and deception offences,16
+428,3108,C Drug offences,4
+429,3108,D Public order and security offences,10
+430,3108,E Justice procedures offences,7
+431,3108,F Other offences,2
+432,3109,A Crimes against the person,14
+433,3109,B Property and deception offences,18
+434,3109,C Drug offences,4
+435,3109,D Public order and security offences,7
+436,3109,E Justice procedures offences,6
+437,3109,F Other offences,1
+438,3111,A Crimes against the person,11
+439,3111,B Property and deception offences,16
+440,3111,C Drug offences,2
+441,3111,D Public order and security offences,2
+442,3111,E Justice procedures offences,3
+443,3113,A Crimes against the person,13
+444,3113,B Property and deception offences,14
+445,3113,C Drug offences,1
+446,3113,D Public order and security offences,2
+447,3113,E Justice procedures offences,3
+448,3116,A Crimes against the person,14
+449,3116,B Property and deception offences,17
+450,3116,C Drug offences,2
+451,3116,D Public order and security offences,8
+452,3116,E Justice procedures offences,4
+453,3116,F Other offences,1
+454,3121,A Crimes against the person,32
+455,3121,B Property and deception offences,42
+456,3121,C Drug offences,6
+457,3121,D Public order and security offences,20
+458,3121,E Justice procedures offences,14
+459,3121,F Other offences,4
+460,3122,A Crimes against the person,16
+461,3122,B Property and deception offences,17
+462,3122,C Drug offences,3
+463,3122,D Public order and security offences,10
+464,3122,E Justice procedures offences,6
+465,3122,F Other offences,1
+466,3123,A Crimes against the person,12
+467,3123,B Property and deception offences,17
+468,3123,C Drug offences,4
+469,3123,D Public order and security offences,7
+470,3123,E Justice procedures offences,5
+471,3123,F Other offences,1
+472,3124,A Crimes against the person,14
+473,3124,B Property and deception offences,17
+474,3124,C Drug offences,4
+475,3124,D Public order and security offences,6
+476,3124,E Justice procedures offences,5
+477,3124,F Other offences,2
+478,3125,A Crimes against the person,18
+479,3125,B Property and deception offences,26
+480,3125,C Drug offences,5
+481,3125,D Public order and security offences,6
+482,3125,E Justice procedures offences,6
+483,3127,A Crimes against the person,24
+484,3127,B Property and deception offences,35
+485,3127,C Drug offences,5
+486,3127,D Public order and security offences,8
+487,3127,E Justice procedures offences,10
+488,3128,A Crimes against the person,26
+489,3128,B Property and deception offences,33
+490,3128,C Drug offences,6
+491,3128,D Public order and security offences,10
+492,3128,E Justice procedures offences,10
+493,3128,F Other offences,4
+494,3129,A Crimes against the person,15
+495,3129,B Property and deception offences,25
+496,3129,C Drug offences,5
+497,3129,D Public order and security offences,3
+498,3129,E Justice procedures offences,4
+499,3130,A Crimes against the person,31
+500,3130,B Property and deception offences,39
+501,3130,C Drug offences,5
+502,3130,D Public order and security offences,11
+503,3130,E Justice procedures offences,12
+504,3130,F Other offences,2
+505,3131,A Crimes against the person,23
+506,3131,B Property and deception offences,31
+507,3131,C Drug offences,5
+508,3131,D Public order and security offences,10
+509,3131,E Justice procedures offences,10
+510,3131,F Other offences,2
+511,3132,A Crimes against the person,12
+512,3132,B Property and deception offences,14
+513,3132,C Drug offences,2
+514,3132,D Public order and security offences,5
+515,3132,E Justice procedures offences,5
+516,3132,F Other offences,1
+517,3133,A Crimes against the person,19
+518,3133,B Property and deception offences,28
+519,3133,C Drug offences,6
+520,3133,D Public order and security offences,6
+521,3133,E Justice procedures offences,6
+522,3134,A Crimes against the person,30
+523,3134,B Property and deception offences,43
+524,3134,C Drug offences,6
+525,3134,D Public order and security offences,16
+526,3134,E Justice procedures offences,15
+527,3134,F Other offences,1
+528,3135,A Crimes against the person,21
+529,3135,B Property and deception offences,28
+530,3135,C Drug offences,7
+531,3135,D Public order and security offences,8
+532,3135,E Justice procedures offences,10
+533,3136,A Crimes against the person,34
+534,3136,B Property and deception offences,43
+535,3136,C Drug offences,8
+536,3136,D Public order and security offences,15
+537,3136,E Justice procedures offences,14
+538,3136,F Other offences,5
+539,3137,A Crimes against the person,25
+540,3137,B Property and deception offences,29
+541,3137,C Drug offences,5
+542,3137,D Public order and security offences,5
+543,3137,E Justice procedures offences,12
+544,3138,A Crimes against the person,17
+545,3138,B Property and deception offences,17
+546,3138,C Drug offences,3
+547,3138,D Public order and security offences,6
+548,3138,E Justice procedures offences,5
+549,3138,F Other offences,1
+550,3140,A Crimes against the person,15
+551,3140,B Property and deception offences,16
+552,3140,C Drug offences,4
+553,3140,D Public order and security offences,7
+554,3140,E Justice procedures offences,6
+555,3140,F Other offences,2
+556,3141,A Crimes against the person,24
+557,3141,B Property and deception offences,32
+558,3141,C Drug offences,6
+559,3141,D Public order and security offences,11
+560,3141,E Justice procedures offences,9
+561,3142,A Crimes against the person,14
+562,3142,B Property and deception offences,16
+563,3142,C Drug offences,3
+564,3142,D Public order and security offences,7
+565,3142,E Justice procedures offences,4
+566,3143,A Crimes against the person,13
+567,3143,B Property and deception offences,17
+568,3143,C Drug offences,2
+569,3143,D Public order and security offences,5
+570,3143,E Justice procedures offences,6
+571,3144,A Crimes against the person,15
+572,3144,B Property and deception offences,24
+573,3144,C Drug offences,2
+574,3144,D Public order and security offences,9
+575,3144,E Justice procedures offences,6
+576,3144,F Other offences,1
+577,3145,A Crimes against the person,25
+578,3145,B Property and deception offences,31
+579,3145,C Drug offences,7
+580,3145,D Public order and security offences,13
+581,3145,E Justice procedures offences,10
+582,3145,F Other offences,3
+583,3146,A Crimes against the person,18
+584,3146,B Property and deception offences,31
+585,3146,C Drug offences,3
+586,3146,D Public order and security offences,9
+587,3146,E Justice procedures offences,9
+588,3147,A Crimes against the person,24
+589,3147,B Property and deception offences,27
+590,3147,C Drug offences,5
+591,3147,D Public order and security offences,12
+592,3147,E Justice procedures offences,8
+593,3147,F Other offences,1
+594,3149,A Crimes against the person,15
+595,3149,B Property and deception offences,16
+596,3149,C Drug offences,4
+597,3149,D Public order and security offences,8
+598,3149,E Justice procedures offences,5
+599,3149,F Other offences,1
+600,3150,A Crimes against the person,29
+601,3150,B Property and deception offences,33
+602,3150,C Drug offences,8
+603,3150,D Public order and security offences,15
+604,3150,E Justice procedures offences,10
+605,3150,F Other offences,2
+606,3151,A Crimes against the person,12
+607,3151,B Property and deception offences,16
+608,3151,C Drug offences,4
+609,3151,D Public order and security offences,6
+610,3151,E Justice procedures offences,5
+611,3152,A Crimes against the person,26
+612,3152,B Property and deception offences,33
+613,3152,C Drug offences,8
+614,3152,D Public order and security offences,11
+615,3152,E Justice procedures offences,10
+616,3152,F Other offences,3
+617,3153,A Crimes against the person,27
+618,3153,B Property and deception offences,28
+619,3153,C Drug offences,8
+620,3153,D Public order and security offences,12
+621,3153,E Justice procedures offences,8
+622,3153,F Other offences,1
+623,3154,A Crimes against the person,11
+624,3154,B Property and deception offences,12
+625,3154,C Drug offences,3
+626,3154,D Public order and security offences,4
+627,3154,E Justice procedures offences,5
+628,3154,F Other offences,1
+629,3155,A Crimes against the person,16
+630,3155,B Property and deception offences,19
+631,3155,C Drug offences,4
+632,3155,D Public order and security offences,9
+633,3155,E Justice procedures offences,7
+634,3155,F Other offences,3
+635,3156,A Crimes against the person,32
+636,3156,B Property and deception offences,49
+637,3156,C Drug offences,9
+638,3156,D Public order and security offences,15
+639,3156,E Justice procedures offences,12
+640,3156,F Other offences,3
+641,3158,A Crimes against the person,11
+642,3158,B Property and deception offences,9
+643,3158,C Drug offences,2
+644,3158,D Public order and security offences,3
+645,3158,E Justice procedures offences,4
+646,3160,A Crimes against the person,21
+647,3160,B Property and deception offences,34
+648,3160,C Drug offences,1
+649,3160,D Public order and security offences,5
+650,3160,E Justice procedures offences,8
+651,3160,F Other offences,2
+652,3161,A Crimes against the person,15
+653,3161,B Property and deception offences,13
+654,3161,C Drug offences,3
+655,3161,D Public order and security offences,6
+656,3161,E Justice procedures offences,5
+657,3161,F Other offences,1
+658,3162,A Crimes against the person,15
+659,3162,B Property and deception offences,27
+660,3162,C Drug offences,4
+661,3162,D Public order and security offences,10
+662,3162,E Justice procedures offences,12
+663,3163,A Crimes against the person,28
+664,3163,B Property and deception offences,43
+665,3163,C Drug offences,6
+666,3163,D Public order and security offences,12
+667,3163,E Justice procedures offences,14
+668,3163,F Other offences,1
+669,3165,A Crimes against the person,15
+670,3165,B Property and deception offences,15
+671,3165,C Drug offences,4
+672,3165,D Public order and security offences,5
+673,3165,E Justice procedures offences,7
+674,3165,F Other offences,1
+675,3166,A Crimes against the person,37
+676,3166,B Property and deception offences,51
+677,3166,C Drug offences,10
+678,3166,D Public order and security offences,14
+679,3166,E Justice procedures offences,19
+680,3166,F Other offences,3
+681,3168,A Crimes against the person,26
+682,3168,B Property and deception offences,29
+683,3168,C Drug offences,6
+684,3168,D Public order and security offences,13
+685,3168,E Justice procedures offences,8
+686,3169,A Crimes against the person,24
+687,3169,B Property and deception offences,28
+688,3169,C Drug offences,6
+689,3169,D Public order and security offences,11
+690,3169,E Justice procedures offences,11
+691,3169,F Other offences,2
+692,3170,A Crimes against the person,12
+693,3170,B Property and deception offences,17
+694,3170,C Drug offences,4
+695,3170,D Public order and security offences,10
+696,3170,E Justice procedures offences,5
+697,3171,A Crimes against the person,16
+698,3171,B Property and deception offences,19
+699,3171,C Drug offences,4
+700,3171,D Public order and security offences,10
+701,3171,E Justice procedures offences,6
+702,3171,F Other offences,3
+703,3172,A Crimes against the person,23
+704,3172,B Property and deception offences,27
+705,3172,C Drug offences,6
+706,3172,D Public order and security offences,8
+707,3172,E Justice procedures offences,9
+708,3173,A Crimes against the person,17
+709,3173,B Property and deception offences,18
+710,3173,C Drug offences,4
+711,3173,D Public order and security offences,9
+712,3173,E Justice procedures offences,7
+713,3173,F Other offences,3
+714,3174,A Crimes against the person,29
+715,3174,B Property and deception offences,33
+716,3174,C Drug offences,7
+717,3174,D Public order and security offences,11
+718,3174,E Justice procedures offences,13
+719,3174,F Other offences,3
+720,3175,A Crimes against the person,54
+721,3175,B Property and deception offences,60
+722,3175,C Drug offences,12
+723,3175,D Public order and security offences,27
+724,3175,E Justice procedures offences,21
+725,3175,F Other offences,4
+726,3177,A Crimes against the person,25
+727,3177,B Property and deception offences,28
+728,3177,C Drug offences,5
+729,3177,D Public order and security offences,9
+730,3177,E Justice procedures offences,9
+731,3178,A Crimes against the person,16
+732,3178,B Property and deception offences,19
+733,3178,C Drug offences,3
+734,3178,D Public order and security offences,7
+735,3178,E Justice procedures offences,7
+736,3180,A Crimes against the person,14
+737,3180,B Property and deception offences,16
+738,3180,C Drug offences,4
+739,3180,D Public order and security offences,4
+740,3180,E Justice procedures offences,4
+741,3180,F Other offences,1
+742,3181,A Crimes against the person,31
+743,3181,B Property and deception offences,41
+744,3181,C Drug offences,7
+745,3181,D Public order and security offences,20
+746,3181,E Justice procedures offences,12
+747,3181,F Other offences,4
+748,3182,A Crimes against the person,25
+749,3182,B Property and deception offences,31
+750,3182,C Drug offences,8
+751,3182,D Public order and security offences,15
+752,3182,E Justice procedures offences,12
+753,3182,F Other offences,3
+754,3183,A Crimes against the person,31
+755,3183,B Property and deception offences,37
+756,3183,C Drug offences,5
+757,3183,D Public order and security offences,13
+758,3183,E Justice procedures offences,12
+759,3184,A Crimes against the person,15
+760,3184,B Property and deception offences,16
+761,3184,C Drug offences,3
+762,3184,D Public order and security offences,7
+763,3184,E Justice procedures offences,4
+764,3185,A Crimes against the person,19
+765,3185,B Property and deception offences,35
+766,3185,C Drug offences,4
+767,3185,D Public order and security offences,11
+768,3185,E Justice procedures offences,11
+769,3186,A Crimes against the person,16
+770,3186,B Property and deception offences,16
+771,3186,C Drug offences,2
+772,3186,D Public order and security offences,6
+773,3186,E Justice procedures offences,7
+774,3186,F Other offences,1
+775,3187,A Crimes against the person,13
+776,3187,B Property and deception offences,18
+777,3187,C Drug offences,4
+778,3187,D Public order and security offences,6
+779,3187,E Justice procedures offences,5
+780,3188,A Crimes against the person,25
+781,3188,B Property and deception offences,29
+782,3188,C Drug offences,5
+783,3188,D Public order and security offences,11
+784,3188,E Justice procedures offences,9
+785,3188,F Other offences,1
+786,3189,A Crimes against the person,16
+787,3189,B Property and deception offences,14
+788,3189,C Drug offences,5
+789,3189,D Public order and security offences,8
+790,3189,E Justice procedures offences,8
+791,3190,A Crimes against the person,17
+792,3190,B Property and deception offences,27
+793,3190,C Drug offences,4
+794,3190,D Public order and security offences,7
+795,3190,E Justice procedures offences,10
+796,3191,A Crimes against the person,16
+797,3191,B Property and deception offences,13
+798,3191,C Drug offences,2
+799,3191,D Public order and security offences,6
+800,3191,E Justice procedures offences,5
+801,3191,F Other offences,1
+802,3192,A Crimes against the person,25
+803,3192,B Property and deception offences,33
+804,3192,C Drug offences,6
+805,3192,D Public order and security offences,12
+806,3192,E Justice procedures offences,11
+807,3192,F Other offences,3
+808,3193,A Crimes against the person,19
+809,3193,B Property and deception offences,25
+810,3193,C Drug offences,5
+811,3193,D Public order and security offences,4
+812,3193,E Justice procedures offences,8
+813,3193,F Other offences,3
+814,3194,A Crimes against the person,20
+815,3194,B Property and deception offences,25
+816,3194,C Drug offences,4
+817,3194,D Public order and security offences,9
+818,3194,E Justice procedures offences,8
+819,3194,F Other offences,1
+820,3195,A Crimes against the person,44
+821,3195,B Property and deception offences,61
+822,3195,C Drug offences,11
+823,3195,D Public order and security offences,18
+824,3195,E Justice procedures offences,18
+825,3195,F Other offences,3
+826,3196,A Crimes against the person,36
+827,3196,B Property and deception offences,49
+828,3196,C Drug offences,10
+829,3196,D Public order and security offences,14
+830,3196,E Justice procedures offences,16
+831,3196,F Other offences,5
+832,3197,A Crimes against the person,23
+833,3197,B Property and deception offences,26
+834,3197,C Drug offences,8
+835,3197,D Public order and security offences,9
+836,3197,E Justice procedures offences,9
+837,3197,F Other offences,2
+838,3198,A Crimes against the person,16
+839,3198,B Property and deception offences,15
+840,3198,C Drug offences,4
+841,3198,D Public order and security offences,8
+842,3198,E Justice procedures offences,8
+843,3198,F Other offences,1
+844,3199,A Crimes against the person,30
+845,3199,B Property and deception offences,33
+846,3199,C Drug offences,7
+847,3199,D Public order and security offences,16
+848,3199,E Justice procedures offences,14
+849,3199,F Other offences,7
+850,3200,A Crimes against the person,13
+851,3200,B Property and deception offences,15
+852,3200,C Drug offences,5
+853,3200,D Public order and security offences,7
+854,3200,E Justice procedures offences,7
+855,3200,F Other offences,2
+856,3201,A Crimes against the person,16
+857,3201,B Property and deception offences,19
+858,3201,C Drug offences,5
+859,3201,D Public order and security offences,6
+860,3201,E Justice procedures offences,6
+861,3201,F Other offences,1
+862,3204,A Crimes against the person,30
+863,3204,B Property and deception offences,39
+864,3204,C Drug offences,9
+865,3204,D Public order and security offences,9
+866,3204,E Justice procedures offences,12
+867,3205,A Crimes against the person,15
+868,3205,B Property and deception offences,18
+869,3205,C Drug offences,3
+870,3205,D Public order and security offences,11
+871,3205,E Justice procedures offences,7
+872,3206,A Crimes against the person,15
+873,3206,B Property and deception offences,25
+874,3206,C Drug offences,3
+875,3206,D Public order and security offences,8
+876,3206,E Justice procedures offences,6
+877,3207,A Crimes against the person,25
+878,3207,B Property and deception offences,30
+879,3207,C Drug offences,7
+880,3207,D Public order and security offences,14
+881,3207,E Justice procedures offences,8
+882,3207,F Other offences,3
+883,3335,A Crimes against the person,27
+884,3335,B Property and deception offences,41
+885,3335,C Drug offences,8
+886,3335,D Public order and security offences,7
+887,3335,E Justice procedures offences,11
+888,3335,F Other offences,1
+889,3337,A Crimes against the person,57
+890,3337,B Property and deception offences,58
+891,3337,C Drug offences,12
+892,3337,D Public order and security offences,20
+893,3337,E Justice procedures offences,24
+894,3337,F Other offences,5
+895,3338,A Crimes against the person,58
+896,3338,B Property and deception offences,63
+897,3338,C Drug offences,10
+898,3338,D Public order and security offences,16
+899,3338,E Justice procedures offences,24
+900,3338,F Other offences,3
+901,3427,A Crimes against the person,16
+902,3427,B Property and deception offences,20
+903,3427,C Drug offences,3
+904,3427,D Public order and security offences,6
+905,3427,E Justice procedures offences,6
+906,3429,A Crimes against the person,18
+907,3429,B Property and deception offences,26
+908,3429,C Drug offences,5
+909,3429,D Public order and security offences,9
+910,3429,E Justice procedures offences,8
+911,3429,F Other offences,1
+912,3750,A Crimes against the person,15
+913,3750,B Property and deception offences,14
+914,3750,C Drug offences,4
+915,3750,D Public order and security offences,4
+916,3750,E Justice procedures offences,6
+917,3750,F Other offences,2
+918,3752,A Crimes against the person,15
+919,3752,B Property and deception offences,17
+920,3752,C Drug offences,4
+921,3752,D Public order and security offences,9
+922,3752,E Justice procedures offences,5
+923,3752,F Other offences,1
+924,3754,A Crimes against the person,28
+925,3754,B Property and deception offences,38
+926,3754,C Drug offences,7
+927,3754,D Public order and security offences,12
+928,3754,E Justice procedures offences,12
+929,3754,F Other offences,1
+930,3756,A Crimes against the person,17
+931,3756,B Property and deception offences,24
+932,3756,C Drug offences,3
+933,3756,D Public order and security offences,8
+934,3756,E Justice procedures offences,8
+935,3756,F Other offences,5
+936,3757,A Crimes against the person,21
+937,3757,B Property and deception offences,30
+938,3757,C Drug offences,5
+939,3757,D Public order and security offences,6
+940,3757,E Justice procedures offences,10
+941,3763,A Crimes against the person,7
+942,3763,B Property and deception offences,14
+943,3763,C Drug offences,3
+944,3763,D Public order and security offences,1
+945,3763,E Justice procedures offences,3
+946,3763,F Other offences,1
+947,3765,A Crimes against the person,7
+948,3765,B Property and deception offences,13
+949,3765,C Drug offences,2
+950,3765,D Public order and security offences,4
+951,3765,E Justice procedures offences,5
+952,3765,F Other offences,1
+953,3767,A Crimes against the person,4
+954,3767,B Property and deception offences,9
+955,3767,C Drug offences,1
+956,3767,D Public order and security offences,1
+957,3767,E Justice procedures offences,1
+958,3777,A Crimes against the person,21
+959,3777,B Property and deception offences,28
+960,3777,C Drug offences,5
+961,3777,D Public order and security offences,9
+962,3777,E Justice procedures offences,10
+963,3777,F Other offences,1
+964,3793,A Crimes against the person,8
+965,3793,B Property and deception offences,13
+966,3793,C Drug offences,3
+967,3793,D Public order and security offences,2
+968,3793,E Justice procedures offences,2
+969,3793,F Other offences,2
+970,3796,A Crimes against the person,13
+971,3796,B Property and deception offences,14
+972,3796,C Drug offences,3
+973,3796,D Public order and security offences,4
+974,3796,E Justice procedures offences,5
+975,3802,A Crimes against the person,17
+976,3802,B Property and deception offences,15
+977,3802,C Drug offences,3
+978,3802,D Public order and security offences,8
+979,3802,E Justice procedures offences,7
+980,3803,A Crimes against the person,15
+981,3803,B Property and deception offences,14
+982,3803,C Drug offences,4
+983,3803,D Public order and security offences,7
+984,3803,E Justice procedures offences,6
+985,3804,A Crimes against the person,15
+986,3804,B Property and deception offences,16
+987,3804,C Drug offences,3
+988,3804,D Public order and security offences,4
+989,3804,E Justice procedures offences,7
+990,3804,F Other offences,1
+991,3805,A Crimes against the person,33
+992,3805,B Property and deception offences,33
+993,3805,C Drug offences,8
+994,3805,D Public order and security offences,19
+995,3805,E Justice procedures offences,15
+996,3805,F Other offences,1
+997,3806,A Crimes against the person,18
+998,3806,B Property and deception offences,20
+999,3806,C Drug offences,4
+1000,3806,D Public order and security offences,11
+1001,3806,E Justice procedures offences,5
+1002,3806,F Other offences,1
+1003,3807,A Crimes against the person,16
+1004,3807,B Property and deception offences,18
+1005,3807,C Drug offences,5
+1006,3807,D Public order and security offences,5
+1007,3807,E Justice procedures offences,4
+1008,3810,A Crimes against the person,24
+1009,3810,B Property and deception offences,31
+1010,3810,C Drug offences,6
+1011,3810,D Public order and security offences,9
+1012,3810,E Justice procedures offences,11
+1013,3810,F Other offences,5
+1014,3815,A Crimes against the person,10
+1015,3815,B Property and deception offences,14
+1016,3815,C Drug offences,3
+1017,3815,D Public order and security offences,4
+1018,3815,E Justice procedures offences,5
+1019,3910,A Crimes against the person,15
+1020,3910,B Property and deception offences,15
+1021,3910,C Drug offences,4
+1022,3910,D Public order and security offences,6
+1023,3910,E Justice procedures offences,6
+1024,3912,A Crimes against the person,23
+1025,3912,B Property and deception offences,22
+1026,3912,C Drug offences,6
+1027,3912,D Public order and security offences,6
+1028,3912,E Justice procedures offences,7
+1029,3912,F Other offences,1
+1030,3915,A Crimes against the person,15
+1031,3915,B Property and deception offences,21
+1032,3915,C Drug offences,5
+1033,3915,D Public order and security offences,7
+1034,3915,E Justice procedures offences,9
+1035,3915,F Other offences,2
+1036,3930,A Crimes against the person,11
+1037,3930,B Property and deception offences,14
+1038,3930,C Drug offences,3
+1039,3930,D Public order and security offences,5
+1040,3930,E Justice procedures offences,4
+1041,3930,F Other offences,1
+1042,3931,A Crimes against the person,16
+1043,3931,B Property and deception offences,18
+1044,3931,C Drug offences,4
+1045,3931,D Public order and security offences,9
+1046,3931,E Justice procedures offences,6
+1047,3931,F Other offences,3
+1048,3934,A Crimes against the person,11
+1049,3934,B Property and deception offences,12
+1050,3934,C Drug offences,1
+1051,3934,D Public order and security offences,6
+1052,3934,E Justice procedures offences,3
+1053,3934,F Other offences,1
+1054,3936,A Crimes against the person,24
+1055,3936,B Property and deception offences,34
+1056,3936,C Drug offences,7
+1057,3936,D Public order and security offences,8
+1058,3936,E Justice procedures offences,9
+1059,3936,F Other offences,2
+1060,3939,A Crimes against the person,22
+1061,3939,B Property and deception offences,30
+1062,3939,C Drug offences,5
+1063,3939,D Public order and security offences,10
+1064,3939,E Justice procedures offences,9
+1065,3939,F Other offences,1
+1066,3975,A Crimes against the person,24
+1067,3975,B Property and deception offences,28
+1068,3975,C Drug offences,4
+1069,3975,D Public order and security offences,6
+1070,3975,E Justice procedures offences,11
+1071,3976,A Crimes against the person,17
+1072,3976,B Property and deception offences,16
+1073,3976,C Drug offences,5
+1074,3976,D Public order and security offences,7
+1075,3976,E Justice procedures offences,5
+1076,3976,F Other offences,3
+1077,3977,A Crimes against the person,89
+1078,3977,B Property and deception offences,109
+1079,3977,C Drug offences,18
+1080,3977,D Public order and security offences,27
+1081,3977,E Justice procedures offences,39
+1082,3977,F Other offences,1
+1083,3978,A Crimes against the person,33
+1084,3978,B Property and deception offences,34
+1085,3978,C Drug offences,7
+1086,3978,D Public order and security offences,11
+1087,3978,E Justice procedures offences,9
+1088,3981,A Crimes against the person,19
+1089,3981,B Property and deception offences,19
+1090,3981,C Drug offences,3
+1091,3981,D Public order and security offences,6
+1092,3981,E Justice procedures offences,6

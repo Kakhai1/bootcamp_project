@@ -1,0 +1,194 @@
+POST_CODE,MUNICIPALITY,CITY_SHIRE,SUBURB_GROUP,SUBURB_NAMES,A Crimes against the person,B Property and deception offences,C Drug offences,D Public order and security offences,E Justice procedures offences,F Other offences,Total Crime 2023
+3003,Inner City municipalities and their suburbs,City of Melbourne,Inner,West Melbourne,130,538,60,64,70,7,869
+3011,Western municipalities and their suburbs,City of Maribyrnong,Mid,"Footscray, Seddon",434,1402,100,138,287,4,2365
+3012,Western municipalities and their suburbs,City of Maribyrnong,Mid,"Brooklyn, Brooklyn, Kingsville, Maidstone, West Footscray",181,1194,39,49,142,0,1605
+3013,Western municipalities and their suburbs,City of Maribyrnong,Mid,"Yarraville, Aintree, Bonnie Brook",86,575,30,32,69,0,792
+3015,Western municipalities and their suburbs,City of Hobsons Bay,Mid,"Newport, Spotswood, South Kingsville",87,595,19,28,63,1,793
+3016,Western municipalities and their suburbs,City of Hobsons Bay,Mid,"Williamstown, Williamstown North",113,753,30,39,101,5,1041
+3018,Western municipalities and their suburbs,City of Hobsons Bay,Mid,"Altona, Seaholme",98,309,30,30,77,5,549
+3019,Western municipalities and their suburbs,City of Maribyrnong,Mid,Braybrook,154,646,53,52,103,0,1008
+3020,Western municipalities and their suburbs,City of Brimbank,Mid,"Albion, Sunshine, Sunshine North, Sunshine West",603,2317,152,196,1114,6,4388
+3021,Western municipalities and their suburbs,City of Brimbank,Mid,"Albanvale, Kealba, Kings Park, St Albans",716,1980,206,220,434,9,3565
+3022,Western municipalities and their suburbs,City of Brimbank,Mid,Ardeer,32,116,5,10,31,1,195
+3023,Western municipalities and their suburbs,City of Brimbank,Mid,"Cairnlea, Deer Park, Burnside, Burnside Heights, Caroline Springs, Cobblebank, Deanside",479,1531,106,104,386,8,2614
+3024,Western municipalities and their suburbs,City of Wyndham,Outer,"Manor Lakes, Wyndham Vale, Mambourin",385,912,52,53,196,2,1600
+3025,Western municipalities and their suburbs,City of Hobsons Bay,Mid,"Altona North, Altona East",102,563,28,38,83,3,817
+3028,Western municipalities and their suburbs,City of Hobsons Bay,Mid,"Altona Meadows, Laverton South, Laverton, Seabrook, Laverton",266,766,45,61,116,1,1255
+3029,Western municipalities and their suburbs,City of Wyndham,Outer,"Truganina, Weir Views, Hoppers Crossing, Tarneit, Truganina",1146,3622,138,204,578,13,5701
+3030,Western municipalities and their suburbs,City of Wyndham,Outer,"Derrimut, Point Cook, Sanctuary Lakes, Werribee, Werribee South",1241,3145,228,256,1016,8,5894
+3031,Northern municipalities and their suburbs,City of Moonee Valley,Mid,"Flemington, Kensington",176,877,152,69,106,2,1382
+3032,Northern municipalities and their suburbs,City of Moonee Valley,Mid,"Ascot Vale, Travancore, Maribyrnong",298,1557,74,70,152,1,2152
+3033,Northern municipalities and their suburbs,City of Moonee Valley,Mid,"Keilor East, Keilor East",75,266,19,9,59,0,428
+3034,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Avondale Heights,72,186,11,13,71,4,357
+3036,Western municipalities and their suburbs,City of Brimbank,Mid,"Keilor, Keilor",29,137,4,7,20,3,200
+3037,Western municipalities and their suburbs,City of Brimbank,Mid,"Delahey, Sydenham",192,517,55,55,160,2,981
+3038,Western municipalities and their suburbs,City of Brimbank,Mid,"Keilor Downs, Keilor Lodge, Taylors Lakes",196,740,42,48,153,0,1179
+3039,Northern municipalities and their suburbs,City of Moonee Valley,Mid,Moonee Ponds,168,709,19,35,129,1,1061
+3040,Northern municipalities and their suburbs,City of Moonee Valley,Mid,"Aberfeldie, Essendon, Essendon West",170,688,41,45,97,3,1044
+3041,Northern municipalities and their suburbs,City of Moonee Valley,Mid,"Essendon North, Strathmore, Strathmore Heights",81,408,22,16,89,0,616
+3042,Northern municipalities and their suburbs,City of Moonee Valley,Mid,"Airport West, Niddrie, Keilor Park",119,655,26,31,94,0,925
+3043,Northern municipalities and their suburbs,City of Moreland,Mid,"Gladstone Park, Tullamarine, Gowanbrae, Tullamarine",165,709,34,24,95,3,1030
+3044,Northern municipalities and their suburbs,City of Moreland,Mid,"Pascoe Vale, Pascoe Vale South, Coonans Hill",181,508,25,19,120,2,855
+3046,Northern municipalities and their suburbs,City of Moreland,Mid,"Glenroy, Hadfield, Oak Park",385,1122,86,66,270,2,1931
+3047,Northern municipalities and their suburbs,City of Hume,Outer,"Broadmeadows, Dallas, Jacana",516,1370,126,141,870,2,3025
+3048,Northern municipalities and their suburbs,City of Hume,Outer,"Coolaroo, Meadow Heights",256,549,50,29,193,3,1080
+3051,Inner City municipalities and their suburbs,City of Melbourne,Inner,North Melbourne,199,870,34,56,137,6,1302
+3052,Inner City municipalities and their suburbs,City of Melbourne,Inner,Parkville,117,490,24,108,56,2,797
+3053,Inner City municipalities and their suburbs,City of Melbourne,Inner,Carlton,277,1466,47,81,111,1,1983
+3054,Inner City municipalities and their suburbs,City of Yarra,Inner,"Carlton North, Carlton North, Princes Hill",52,419,10,13,19,0,513
+3055,Northern municipalities and their suburbs,City of Moreland,Mid,Brunswick West,138,549,16,19,93,0,815
+3056,Northern municipalities and their suburbs,City of Moreland,Mid,Brunswick,265,1588,53,67,187,5,2165
+3057,Northern municipalities and their suburbs,City of Moreland,Mid,Brunswick East,78,598,6,17,47,0,746
+3058,Northern municipalities and their suburbs,City of Moreland,Mid,"Coburg, Coburg East, Coburg North",307,1455,55,66,236,2,2121
+3059,Northern municipalities and their suburbs,City of Hume,Outer,Greenvale,98,301,15,19,58,0,491
+3060,Northern municipalities and their suburbs,City of Moreland,Mid,Fawkner,165,344,19,21,96,0,645
+3061,Northern municipalities and their suburbs,City of Hume,Outer,Campbellfield,128,586,16,48,69,3,850
+3064,Northern municipalities and their suburbs,City of Hume,Outer,"Craigieburn, Roxburgh Park, Kalkallo, Mickleham, Donnybrook",972,2234,131,125,563,17,4042
+3065,Inner City municipalities and their suburbs,City of Yarra,Inner,Fitzroy,362,1264,48,91,133,1,1899
+3066,Inner City municipalities and their suburbs,City of Yarra,Inner,Collingwood,213,1062,32,61,184,1,1553
+3067,Inner City municipalities and their suburbs,City of Yarra,Inner,Abbotsford,146,743,68,57,84,2,1100
+3068,Inner City municipalities and their suburbs,City of Yarra,Inner,"Clifton Hill, Fitzroy North",140,840,17,31,87,5,1120
+3070,Northern municipalities and their suburbs,City of Darebin,Mid,"Northcote, Westgarth",137,927,19,29,67,3,1182
+3071,Northern municipalities and their suburbs,City of Darebin,Mid,Thornbury,94,661,25,37,76,0,893
+3072,Northern municipalities and their suburbs,City of Darebin,Mid,Preston,493,2134,128,122,408,5,3290
+3073,Northern municipalities and their suburbs,City of Darebin,Mid,Reservoir,546,1859,207,168,504,6,3290
+3074,Northern municipalities and their suburbs,City of Whittlesea,Outer,Thomastown,258,825,96,61,187,3,1430
+3075,Northern municipalities and their suburbs,City of Whittlesea,Outer,Lalor,194,354,54,42,131,2,777
+3076,Northern municipalities and their suburbs,City of Whittlesea,Outer,Epping,422,1171,82,75,262,0,2012
+3078,Inner City municipalities and their suburbs,City of Yarra,Inner,"Alphington, Fairfield, Alphington, Fairfield",83,395,4,14,41,0,537
+3079,Northern municipalities and their suburbs,City of Banyule,Mid,"Ivanhoe, Ivanhoe East",85,485,17,23,65,2,677
+3081,Northern municipalities and their suburbs,City of Banyule,Mid,"Heidelberg Heights, Heidelberg West",240,583,73,65,239,2,1202
+3082,Northern municipalities and their suburbs,City of Whittlesea,Outer,Mill Park,251,664,56,45,197,3,1216
+3083,Northern municipalities and their suburbs,City of Banyule,Mid,"Bundoora, Bundoora, Kingsbury, Bundoora",244,1047,83,69,209,3,1655
+3084,Northern municipalities and their suburbs,City of Banyule,Mid,"Eaglemont, Heidelberg, Rosanna, Viewbank",181,540,56,66,796,2,1641
+3087,Northern municipalities and their suburbs,City of Banyule,Mid,"Watsonia, Watsonia North",26,154,9,10,54,1,254
+3088,Northern municipalities and their suburbs,City of Banyule,Mid,"Briar Hill, Greensborough, St Helena, Greensborough",149,540,27,36,133,7,892
+3094,Northern municipalities and their suburbs,City of Banyule,Mid,Montmorency,38,73,7,10,15,0,143
+3095,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,"Eltham, Eltham North, Eltham, Eltham North, Research",127,368,17,23,92,2,629
+3096,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,Wattle Glen,2,12,1,0,1,0,16
+3099,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,Hurstbridge,25,62,4,5,5,0,101
+3101,Eastern municipalities and their suburbs,City of Boroondara,Mid,Kew,143,668,13,34,85,1,944
+3102,Eastern municipalities and their suburbs,City of Boroondara,Mid,"Kew East, Kew North",33,159,4,4,20,0,220
+3103,Eastern municipalities and their suburbs,City of Boroondara,Mid,"Balwyn, Deepdene",67,321,6,14,27,2,437
+3104,Eastern municipalities and their suburbs,City of Boroondara,Mid,Balwyn North,67,400,10,11,30,0,518
+3105,Eastern municipalities and their suburbs,City of Manningham,Mid,Bulleen,43,180,11,2,42,0,278
+3106,Eastern municipalities and their suburbs,City of Manningham,Mid,Templestowe,63,206,6,14,24,0,313
+3107,Eastern municipalities and their suburbs,City of Manningham,Mid,"Templestowe Lower, Macedon",60,218,6,6,34,0,324
+3108,Eastern municipalities and their suburbs,City of Manningham,Mid,Doncaster,160,775,30,37,105,2,1109
+3109,Eastern municipalities and their suburbs,City of Manningham,Mid,Doncaster East,151,394,21,17,51,1,635
+3111,Eastern municipalities and their suburbs,City of Manningham,Mid,Donvale,45,144,7,4,15,0,215
+3113,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,Warrandyte,29,44,1,2,8,0,84
+3116,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Chirnside Park,87,235,8,21,51,1,403
+3121,Inner City municipalities and their suburbs,City of Yarra,Inner,"Burnley, Cremorne, Richmond",482,2085,187,172,286,6,3218
+3122,Eastern municipalities and their suburbs,City of Boroondara,Mid,Hawthorn,128,783,14,14,58,2,999
+3123,Eastern municipalities and their suburbs,City of Boroondara,Mid,Hawthorn East,79,416,7,14,36,1,553
+3124,Eastern municipalities and their suburbs,City of Boroondara,Mid,Camberwell,92,634,11,21,74,2,834
+3125,Eastern municipalities and their suburbs,City of Whitehorse,Mid,"Burwood, Burwood",70,456,29,13,45,0,613
+3127,Eastern municipalities and their suburbs,City of Boroondara,Mid,"Mont Albert, Mont Albert North, Surrey Hills, Mont Albert, Surrey Hills",67,347,13,10,41,0,478
+3128,Eastern municipalities and their suburbs,City of Whitehorse,Mid,"Box Hill, Box Hill South",247,1049,45,54,159,4,1558
+3129,Eastern municipalities and their suburbs,City of Whitehorse,Mid,"Box Hill North, Mont Albert North",61,283,17,8,21,0,390
+3130,Eastern municipalities and their suburbs,City of Whitehorse,Mid,"Blackburn, Blackburn North, Blackburn South",154,677,12,26,90,3,962
+3131,Eastern municipalities and their suburbs,City of Whitehorse,Mid,"Nunawading, Forest Hill, Nunawading",157,648,27,24,99,2,957
+3132,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Mitcham,95,312,9,12,52,1,481
+3133,Eastern municipalities and their suburbs,City of Whitehorse,Mid,"Vermont, Vermont South",77,372,16,8,39,0,512
+3134,Eastern municipalities and their suburbs,City of Maroondah,Mid,"Ringwood North, Ringwood, Ringwood North, Warranwood",348,1152,90,128,849,1,2568
+3135,Eastern municipalities and their suburbs,City of Maroondah,Mid,"Heathmont, Eastwood, Ringwood East",133,304,41,25,93,0,596
+3136,Eastern municipalities and their suburbs,City of Maroondah,Mid,"Croydon, Croydon Hills, Croydon North, Croydon South",368,666,82,84,265,6,1471
+3137,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,"Kilsyth South, Kilsyth",120,221,17,11,103,0,472
+3138,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Mooroolbark,207,291,25,30,117,1,671
+3140,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Lilydale,219,444,44,53,142,3,905
+3141,Southeastern municipalities and their suburbs,City of Stonnington,Mid,"South Yarra, South Yarra",330,1437,73,119,180,0,2139
+3142,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Toorak,84,429,16,23,54,0,606
+3143,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Armadale,50,357,6,10,18,0,441
+3144,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Malvern,49,410,4,25,55,1,544
+3145,Southeastern municipalities and their suburbs,City of Stonnington,Mid,Malvern East,219,1672,50,77,181,4,2203
+3146,Southeastern municipalities and their suburbs,City of Stonnington,Mid,"Glen Iris, Glen Iris",56,569,8,23,57,0,713
+3147,Southeastern municipalities and their suburbs,City of Monash,Mid,"Ashburton, Ashwood",141,646,28,25,80,1,921
+3149,Southeastern municipalities and their suburbs,City of Monash,Mid,Mount Waverley,183,951,26,27,94,2,1283
+3150,Southeastern municipalities and their suburbs,City of Monash,Mid,"Glen Waverley, Syndal, Wheelers Hill",318,1419,46,62,206,2,2053
+3151,Eastern municipalities and their suburbs,City of Whitehorse,Mid,Burwood East,71,365,13,17,32,0,498
+3152,Eastern municipalities and their suburbs,City of Knox,Mid,"Wantirna, Wantirna South, Studfield",239,820,118,68,206,6,1457
+3153,Eastern municipalities and their suburbs,City of Knox,Mid,"Bayswater, Bayswater North",255,661,98,62,211,3,1290
+3154,Eastern municipalities and their suburbs,City of Knox,Mid,The Basin,50,55,14,11,19,1,150
+3155,Eastern municipalities and their suburbs,City of Knox,Mid,Boronia,232,598,112,78,271,3,1294
+3156,Eastern municipalities and their suburbs,City of Knox,Mid,"Ferntree Gully, Lysterfield, Upper Ferntree Gully, Upper Ferntree Gully, Lysterfield, Lysterfield South",295,820,106,64,192,3,1480
+3158,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Upwey,35,101,3,5,14,0,158
+3160,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,"Belgrave, Belgrave Heights, Belgrave South, Tecoma",57,152,9,9,40,2,269
+3161,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Caulfield North,70,475,11,15,40,1,612
+3162,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,"Caulfield, Caulfield South",62,373,15,17,87,0,554
+3163,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,"Carnegie, Glen Huntly, Murrumbeena",145,935,15,33,94,1,1223
+3165,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,Bentleigh East,147,633,32,15,77,1,905
+3166,Southeastern municipalities and their suburbs,City of Monash,Mid,"Hughesdale, Huntingdale, Oakleigh, Oakleigh East",203,1243,67,54,166,4,1737
+3168,Southeastern municipalities and their suburbs,City of Monash,Mid,"Clayton, Clayton North, Notting Hill",251,1199,42,46,132,0,1670
+3169,Southeastern municipalities and their suburbs,City of Kingston,Mid,"Clarinda, Clayton South, Westall",164,636,43,33,103,2,981
+3170,Southeastern municipalities and their suburbs,City of Monash,Mid,Mulgrave,118,726,27,39,108,0,1018
+3171,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Springvale,267,1336,164,120,254,4,2145
+3172,Southeastern municipalities and their suburbs,City of Kingston,Mid,"Springvale South, Dingley Village",141,522,49,28,110,0,850
+3173,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,Keysborough,172,704,38,35,107,3,1059
+3174,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,"Noble Park, Noble Park North",487,1351,131,91,362,3,2425
+3175,Southeastern municipalities and their suburbs,City of Greater Dandenong,Outer,"Dandenong, Dandenong North",1400,3517,330,423,1536,7,7213
+3177,Southeastern municipalities and their suburbs,City of Casey,Outer,"Doveton, Eumemmerring",236,590,28,38,161,0,1053
+3178,Eastern municipalities and their suburbs,City of Knox,Mid,Rowville,207,594,44,26,162,0,1033
+3180,Eastern municipalities and their suburbs,City of Knox,Mid,Knoxfield,59,182,23,12,29,1,306
+3181,Southeastern municipalities and their suburbs,City of Stonnington,Mid,"Prahran, Windsor",493,1727,98,241,218,5,2782
+3182,Inner City municipalities and their suburbs,City of Port Phillip,Inner,"St Kilda, St Kilda West",591,1965,192,216,417,7,3388
+3183,Inner City municipalities and their suburbs,City of Port Phillip,Inner,"Balaclava, St Kilda East, St Kilda East",166,830,24,38,106,0,1164
+3184,Inner City municipalities and their suburbs,City of Port Phillip,Inner,Elwood,88,530,17,18,65,0,718
+3185,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,"Ripponlea, Gardenvale, Elsternwick, Gardenvale",91,475,12,23,65,0,666
+3186,Southeastern municipalities and their suburbs,City of Bayside,Mid,Brighton,96,719,11,50,74,2,952
+3187,Southeastern municipalities and their suburbs,City of Bayside,Mid,Brighton East,65,420,19,18,62,0,584
+3188,Southeastern municipalities and their suburbs,City of Bayside,Mid,"Hampton, Hampton East",114,614,24,35,101,1,889
+3189,Southeastern municipalities and their suburbs,City of Kingston,Mid,"Moorabbin, Moorabbin",87,464,50,38,326,0,965
+3190,Southeastern municipalities and their suburbs,City of Bayside,Mid,"Highett, Highett",68,395,18,24,165,0,670
+3191,Southeastern municipalities and their suburbs,City of Bayside,Mid,Sandringham,81,282,15,18,69,1,466
+3192,Southeastern municipalities and their suburbs,City of Bayside,Mid,"Cheltenham, Cheltenham, Cheltenham East, Cheltenham North",240,906,32,43,133,3,1357
+3193,Southeastern municipalities and their suburbs,City of Bayside,Mid,"Beaumaris, Black Rock",77,353,9,5,38,5,487
+3194,Southeastern municipalities and their suburbs,City of Kingston,Mid,Mentone,102,583,12,23,90,1,811
+3195,Southeastern municipalities and their suburbs,City of Kingston,Mid,"Aspendale, Aspendale Gardens, Mordialloc, Parkdale, Waterways",247,809,47,60,168,6,1337
+3196,Southeastern municipalities and their suburbs,City of Kingston,Mid,"Bonbeach, Chelsea, Chelsea Heights, Edithvale",172,583,49,41,167,5,1017
+3197,Southeastern municipalities and their suburbs,City of Kingston,Mid,"Carrum, Patterson Lakes, Patterson Gardens",93,302,34,31,79,6,545
+3198,Southeastern municipalities and their suburbs,City of Frankston,Outer,Seaford,222,760,66,57,237,1,1343
+3199,Southeastern municipalities and their suburbs,City of Frankston,Outer,"Frankston, Frankston South",858,2394,190,373,1524,12,5351
+3200,Southeastern municipalities and their suburbs,City of Frankston,Outer,Frankston North,130,263,34,30,103,3,563
+3201,Southeastern municipalities and their suburbs,City of Frankston,Outer,Carrum Downs,261,682,62,58,217,1,1281
+3204,Southeastern municipalities and their suburbs,City of Glen Eira,Mid,"Bentleigh, McKinnon, Ormond",148,836,34,17,78,0,1113
+3205,Inner City municipalities and their suburbs,City of Port Phillip,Inner,South Melbourne,233,1281,57,82,152,0,1805
+3206,Inner City municipalities and their suburbs,City of Port Phillip,Inner,"Albert Park, Middle Park",53,457,8,15,29,0,562
+3207,Inner City municipalities and their suburbs,City of Port Phillip,Inner,"Port Melbourne, Port Melbourne, Garden City",210,1221,43,57,131,9,1671
+3335,Western municipalities and their suburbs,City of Melton,Outer,"Rockbank, Strathtulloh, Taylors Hill, Thornhill Park",81,549,17,14,42,1,704
+3337,Western municipalities and their suburbs,City of Melton,Outer,"Kurunjang, Melton, Melton West",681,1374,102,132,469,7,2765
+3338,Western municipalities and their suburbs,City of Melton,Outer,"Brookfield, Eynesbury, Fraser Rise, Harkness, Melton South, Eynesbury",502,916,55,68,241,3,1785
+3427,Western municipalities and their suburbs,City of Melton,Outer,"Diggers Rest, Diggers Rest",61,132,6,12,31,0,242
+3429,Northern municipalities and their suburbs,City of Hume,Outer,Sunbury,422,768,58,58,297,1,1604
+3750,Northern municipalities and their suburbs,City of Whittlesea,Outer,Wollert,143,314,23,12,71,2,565
+3752,Northern municipalities and their suburbs,City of Whittlesea,Outer,South Morang,144,361,32,40,121,1,699
+3754,Northern municipalities and their suburbs,City of Whittlesea,Outer,"Doreen, Doreen, Mernda",295,612,52,52,296,2,1309
+3756,Northern municipalities and their suburbs,City of Whittlesea,Outer,Wallan,200,317,25,31,147,5,725
+3757,Northern municipalities and their suburbs,City of Whittlesea,Outer,Whittlesea,64,122,15,15,43,0,259
+3763,Northern municipalities and their suburbs,Shire of Nillumbik,Outer,Kinglake,8,25,3,1,4,1,42
+3765,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Montrose,35,59,5,6,23,1,129
+3767,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Mount Dandenong,8,19,2,1,2,0,32
+3777,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,"Badger Creek, Healesville, Healesville",93,171,8,18,78,1,369
+3793,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Monbulk,23,53,9,2,15,4,106
+3796,Eastern municipalities and their suburbs,Shire of Yarra Ranges,Outer,Mount Evelyn,67,104,6,6,40,0,223
+3802,Southeastern municipalities and their suburbs,City of Casey,Outer,Endeavour Hills,211,444,27,28,124,0,834
+3803,Southeastern municipalities and their suburbs,City of Casey,Outer,Hallam,163,431,26,25,72,0,717
+3804,Southeastern municipalities and their suburbs,City of Casey,Outer,Narre Warren North,49,125,10,8,24,1,217
+3805,Southeastern municipalities and their suburbs,City of Casey,Outer,"Narre Warren, Narre Warren South",619,1455,115,96,349,1,2635
+3806,Southeastern municipalities and their suburbs,City of Casey,Outer,Berwick,362,1088,54,50,178,1,1733
+3807,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,Beaconsfield,50,166,15,9,29,0,269
+3810,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,Pakenham,651,1631,122,117,492,6,3019
+3815,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,Bunyip,20,30,3,5,13,0,71
+3910,Southeastern municipalities and their suburbs,City of Frankston,Outer,Langwarrin,145,328,35,20,112,0,640
+3912,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,"Pearcedale, Somerville, Pearcedale",93,247,21,8,90,1,460
+3915,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,"Hastings, Hastings West",175,540,33,44,193,3,988
+3930,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Mount Eliza,62,250,12,11,60,1,396
+3931,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,Mornington,222,728,55,162,184,3,1354
+3934,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,"Mount Martha, Balcombe, Osborne",36,230,6,12,45,2,331
+3936,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,"Dromana, Safety Beach",80,353,21,29,143,8,634
+3939,Southeastern municipalities and their suburbs,Shire of Mornington Peninsula,Outer,"Rosebud, Rosebud South, Cape Schanck, Fingal",200,462,43,53,188,2,948
+3975,Southeastern municipalities and their suburbs,City of Casey,Outer,"Lynbrook, Lyndhurst",109,356,18,14,71,0,568
+3976,Southeastern municipalities and their suburbs,City of Casey,Outer,Hampton Park,321,515,47,31,229,3,1146
+3977,Southeastern municipalities and their suburbs,City of Casey,Outer,"Botanic Ridge, Cranbourne, Cranbourne East, Cranbourne North, Cranbourne West, Cranbourne South, Junction Village, Fiveways, Sandhurst, Skye",1197,2603,181,161,762,1,4905
+3978,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,"Clyde, Clyde North",317,927,28,31,197,0,1500
+3981,Southeastern municipalities and their suburbs,Shire of Cardinia,Outer,Koo Wee Rup,47,116,4,11,20,0,198
