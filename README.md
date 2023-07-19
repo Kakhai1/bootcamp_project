@@ -10,7 +10,7 @@ Katharine Tamas, Nairui Guo, Kashif Bashir and Khai Tran
 
 We are running an analysis on suburbs all around Melbourne for the CEO of a real estate company that operates in most suburbs of Melbourne. The CEO wants to know which suburbs in Melbourne are the most liveable for the future young generations in terms of affordability, safety and education?
 
-**POWERPOINT PRESENTATION:**
+**Final Presentation:**
 
 Resources > Project 1 - Group 6 Slides_KT_Final.pptx
 
