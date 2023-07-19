@@ -1,16 +1,21 @@
 # bootcamp_project
+
 This repo contains files relating to Datascience bootcamp Project 1
 
 **Group Members:**
+
 Katharine Tamas, Nairui Guo, Kashif Bashir and Khai Tran
 
 **Topic:** 
+
 We are running an analysis on suburbs all around Melbourne for the CEO of a real estate company that operates in most suburbs of Melbourne. The CEO wants to know which suburbs in Melbourne are the most liveable for the future young generations in terms of affordability, safety and education?
 
 **POWERPOINT PRESENTATION:**
+
 Resources > Project 1 - Group 6 Slides_KT_Final.pptx
 
 **Main resources:**
+
 MEDIAN HOUSE PRICES: 
   Copy-of-Suburb_HouseV2022z.xlsx
     https://www.land.vic.gov.au/valuations/resources-and-reports/property-sales-statistics
